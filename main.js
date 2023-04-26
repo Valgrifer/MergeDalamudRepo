@@ -3,34 +3,10 @@
 import Repolist from "./repolist.js";
 import Config from "./config.js";
 import fetch from "node-fetch";
-import fs from "fs";
-import {fixJSON} from "./utils.js";
+import {writeFileSync} from "fs";
+import {fixJSON, findUrlLine, compareVersions} from "./utils.js";
 
 const SETTINGS = { method: "Get" };
-
-/**
- * @typedef {Object} RepoItem
- * @property {undefined|string} Author
- * @property {undefined|string} Name
- * @property {undefined|boolean} Disabled
- * @property {undefined|string} Description
- * @property {undefined|string} InternalName
- * @property {undefined|string} AssemblyVersion
- * @property {undefined|string} TestingAssemblyVersion
- * @property {undefined|string} RepoUrl
- * @property {undefined|string} ApplicableVersion
- * @property {undefined|number} DalamudApiLevel
- * @property {undefined|string} DownloadLinkInstall
- * @property {undefined|string} DownloadLinkTesting
- * @property {undefined|string} DownloadLinkUpdate
- * @property {undefined|string} IconUrl
- * @property {undefined|string[]} Tags
- *
- * @property {string} originRepository
- * @property {undefined|string} error
- * @property {undefined|number} code
- * @property {undefined|any} err
- */
 
 (async () => {
     /** @type {RepoItem[]} */
@@ -79,7 +55,11 @@ const SETTINGS = { method: "Get" };
             let same;
             if((same = finalList.find(el => el.InternalName === item.InternalName)))
             {
-                console.log(item.AssemblyVersion, same.AssemblyVersion)
+                if(item.AssemblyVersion !== same.AssemblyVersion && compareVersions(item.AssemblyVersion, same.AssemblyVersion) === item.AssemblyVersion)
+                {
+                    Object.keys(same).forEach(key => delete same[key])
+                    Object.keys(item).forEach(key => same[key] = item[key])
+                }
                 return;
             }
             finalList.push(item);
@@ -88,7 +68,8 @@ const SETTINGS = { method: "Get" };
     let info = Config.defaultInfoPlugin;
     /** @type {function(RepoItem)} */
     const printer = item => {
-        info.Description += "\n- " + item.originRepository;
+        info.Description += `
+- ${item.originRepository} at line ${findUrlLine(item.originRepository)}`;
     };
 
     info.Description = "404: ";
@@ -103,5 +84,5 @@ const SETTINGS = { method: "Get" };
 
     finalList.push(info);
 
-    fs.writeFileSync(Config.freezeFilePath, JSON.stringify(finalList))
+    writeFileSync(Config.freezeFilePath, JSON.stringify(finalList))
 })()
