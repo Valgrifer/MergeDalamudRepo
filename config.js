@@ -7,7 +7,8 @@ const config = {
         "Athavar.FFXIV.Plugin",
         "BossMod",
     ],
-    freezeFilePath: "repo.json"
+    freezeFilePath: "repo.json",
+    commitMessage: "repo update",
 };
 
 

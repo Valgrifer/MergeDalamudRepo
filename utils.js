@@ -1,4 +1,5 @@
 import {readFileSync} from 'fs';
+import {execSync} from 'child_process';
 
 /**
  * @typedef {Object} RepoItem
@@ -73,5 +74,29 @@ export function compareVersions(version1, version2) {
         }
     }
 
-    return version1; // Les versions sont identiques
+    return version1; // Les versions sont identiques.
+}
+
+
+/**
+ * Effectue un commit et un push d'un fichier sur Git.
+ * @param {string} file - Le chemin vers le fichier à committer et à pousser.
+ * @param {string} commit - Message du Commit.
+ * @returns {void}
+ */
+export function commitAndPush(file, commit) {
+    try {
+        // Ajouter le fichier au suivi de Git
+        execSync(`git add ${file}`);
+
+        // Effectuer le commit
+        execSync(`git commit -m "${commit}"`);
+
+        // Effectuer le push
+        execSync('git push');
+
+        console.log(`The file ${file} has been committed and pushed to Git.`);
+    } catch (error) {
+        console.error(`An error occurred while executing Git commands: ${error.message}`);
+    }
 }

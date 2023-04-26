@@ -4,7 +4,7 @@ import Repolist from "./repolist.js";
 import Config from "./config.js";
 import fetch from "node-fetch";
 import {writeFileSync} from "fs";
-import {fixJSON, findUrlLine, compareVersions} from "./utils.js";
+import {fixJSON, findUrlLine, compareVersions, commitAndPush} from "./utils.js";
 
 const SETTINGS = { method: "Get" };
 
@@ -85,4 +85,5 @@ const SETTINGS = { method: "Get" };
     finalList.push(info);
 
     writeFileSync(Config.freezeFilePath, JSON.stringify(finalList))
+    commitAndPush(Config.freezeFilePath, Config.commitMessage)
 })()
