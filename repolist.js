@@ -10,8 +10,8 @@ export default [
     "https://raw.githubusercontent.com/Ank164/MyDalamudPlugins/master/pluginmaster.json",
     "https://raw.githubusercontent.com/Athavar/Athavar.FFXIV.DalaRepo/master/pluginmaster.json",
     "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/pluginmaster.json",
-    // "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json",
     "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/master/pluginmaster.json",
+    "https://raw.githubusercontent.com/Bluefissure/MultiHit/master/repo.json",
     // "https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json",
     // "https://raw.githubusercontent.com/CharlieDelune/DalamudPlugins/master/repo.json",
     "https://raw.githubusercontent.com/Cloa/resonant/main/repo/latest.json",
@@ -109,5 +109,4 @@ export default [
     "https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/repo.json",
     "http://repo.modloader64.com/ffxiv/plugins.json",
     "https://raw.githubusercontent.com/chirpxiv/PalettePlus/main/repo.json",
-    "https://raw.githubusercontent.com/Penumbra-Sync/repo/main/plogonmaster.json",
 ];

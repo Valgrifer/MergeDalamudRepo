@@ -4,6 +4,7 @@ import Repolist from "./repolist.js";
 import Config from "./config.js";
 import fetch from "node-fetch";
 import fs from "fs";
+import {fixJSON} from "./utils.js";
 
 const SETTINGS = { method: "Get" };
 
@@ -41,30 +42,34 @@ const SETTINGS = { method: "Get" };
     const RepoListResult = (await Promise.all(Repolist.map(originRepository => fetch(originRepository, SETTINGS)
         .then(async res => {
             if (res.status === 200)
-                return (await res.json())
+                return JSON.parse(fixJSON(await res.text()))
                     .map(item => ({
                         ...item,
                         originRepository,
                         Description: (item.Description ? item.Description + '\n\n' : '') + "Plugin from " + originRepository
                     }));
-            return [
-                {
-                    repo: originRepository,
-                    code: 404,
-                    error: "Not Found",
-                }];
+            return [{
+                originRepository,
+                code: 404,
+                error: "Not Found",
+            }];
         })
         .catch(err => ([
-            {
-                repo: originRepository,
-                code: 500,
-                error: "Une erreur c'est produit",
-                err
-            }])))))
-        .reduce((el1, el2) => el1 ? ([...el1, ...el2]) : el2);
+                {
+                    originRepository,
+                    code: 500,
+                    error: "Une erreur c'est produit",
+                    err
+                }])))))
+        .reduce((el1, el2) => {
+            if(!el1)
+                return el2;
+            el2.forEach(el => el1.push(el))
+            return el1;
+        });
 
     RepoListResult.filter(item =>
-            !item.Disabled && !Config.BlackListPlugin.includes(item.InternalName) && item.DalamudApiLevel && item.DalamudApiLevel >= Config.DalamudApiLevel
+            item.error || !item.Disabled && !Config.BlackListPlugin.includes(item.InternalName) && item.DalamudApiLevel && item.DalamudApiLevel >= Config.DalamudApiLevel
         ).forEach(item => {
             if(item.error)
             {
@@ -74,6 +79,7 @@ const SETTINGS = { method: "Get" };
             let same;
             if((same = finalList.find(el => el.InternalName === item.InternalName)))
             {
+                console.log(item.AssemblyVersion, same.AssemblyVersion)
                 return;
             }
             finalList.push(item);
