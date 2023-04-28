@@ -3,20 +3,12 @@ import {execSync} from 'child_process';
 
 /**
  * @typedef {Object} RepoItem
- * @property {undefined|string} Author
- * @property {undefined|string} Name
  * @property {undefined|boolean} Disabled
  * @property {undefined|string} Description
  * @property {undefined|string} InternalName
  * @property {undefined|string} AssemblyVersion
- * @property {undefined|string} TestingAssemblyVersion
  * @property {undefined|string} RepoUrl
- * @property {undefined|string} ApplicableVersion
  * @property {undefined|number} DalamudApiLevel
- * @property {undefined|string} DownloadLinkInstall
- * @property {undefined|string} DownloadLinkTesting
- * @property {undefined|string} DownloadLinkUpdate
- * @property {undefined|string} IconUrl
  * @property {undefined|string[]} Tags
  *
  * @property {string} originRepository

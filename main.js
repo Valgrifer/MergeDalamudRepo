@@ -3,7 +3,7 @@
 import Repolist from "./repolist.js";
 import Config from "./config.js";
 import fetch from "node-fetch";
-import {writeFileSync} from "fs";
+import {readFileSync, writeFileSync} from "fs";
 import {fixJSON, findUrlLine, compareVersions, commitAndPush} from "./utils.js";
 
 const SETTINGS = { method: "Get" };
@@ -82,8 +82,34 @@ const SETTINGS = { method: "Get" };
 
     console.error(info.Description);
 
+    finalList.sort((a, b) => a.InternalName.localeCompare(b.InternalName))
+
     finalList.push(info);
 
-    writeFileSync(Config.freezeFilePath, JSON.stringify(finalList))
-    commitAndPush(Config.freezeFilePath, Config.commitMessage)
+    /**
+     * @type {RepoItem[]}
+     */
+    const oldJson = JSON.parse(readFileSync(Config.freezeFilePath, {encoding:'utf8', flag:'r'}));
+
+    if(finalList.filter(el => {
+        if(el.InternalName === Config.defaultInfoPlugin.InternalName)
+            return false;
+
+        let find = oldJson.find(e => e.InternalName === el.InternalName);
+
+        if(find === undefined)
+            return true;
+
+        return compareVersions(el.AssemblyVersion, find.AssemblyVersion) !== el.AssemblyVersion;
+    }).length === 0)
+    {
+        console.log("No Update Found!!");
+        return;
+    }
+    console.log("Update Found!!");
+
+    writeFileSync(Config.freezeFilePath, JSON.stringify(finalList, null, 2));
+
+    if(Config.autoCommitPush)
+        commitAndPush(Config.freezeFilePath, Config.commitMessage);
 })()
