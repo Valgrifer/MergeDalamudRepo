@@ -1,0 +1,24 @@
+name: Exécution de npm run start toutes les heures
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Vérification du dépôt
+        uses: actions/checkout@v2
+
+      - name: Configuration de Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Installation des dépendances
+        run: npm install
+
+      - name: Exécution de npm run start
+        run: npm run start
