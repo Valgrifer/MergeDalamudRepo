@@ -1,0 +1,25 @@
+name: Auto-Updater
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  workflow_dispatch:  # Ajout de la possibilité de déclenchement manuel
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Vérification du dépôt
+        uses: actions/checkout@v2
+
+      - name: Configuration de Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Installation des dépendances
+        run: npm install
+
+      - name: Exécution de npm run start
+        run: npm run start
