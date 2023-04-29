@@ -2,7 +2,7 @@ name: Auto-Updater
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:  # Ajout de la possibilité de déclenchement manuel
 
 jobs:
@@ -29,11 +29,5 @@ jobs:
 
       - name: Exécution de npm run start
         run: npm run start
-
-      - name: Commit et push
-        run: |
-          git add ./repo.json
-          git commit -m "Auto-Update"
-          git push origin HEAD:master
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
