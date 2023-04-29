@@ -18,8 +18,16 @@ jobs:
         with:
           node-version: '14'
 
+      - name: Configuration de Git
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "<>"
+          git config --global credential.helper store
+
       - name: Installation des dépendances
         run: npm install
 
       - name: Exécution de npm run start
         run: npm run start
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
