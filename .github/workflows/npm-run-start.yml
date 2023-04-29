@@ -21,7 +21,7 @@ jobs:
       - name: Configuration de Git
         run: |
           git config --global user.name "GitHub Actions"
-          git config --global user.email "<>"
+          git config --global user.email "<valgrifer123@gmail.com>"
           git config --global credential.helper store
 
       - name: Installation des dépendances
