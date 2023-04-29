@@ -12,9 +12,9 @@ const config = {
     /** @var {string} **/
     freezeFilePath: "repo.json",
     /** @var {boolean} **/
-    autoCommitPush: true,
+    autoCommitPush: false,
     /** @var {string} **/
-    commitMessage: "test",
+    commitMessage: "Repo Update",
     /** @var {string} **/
     commitBranch: "master",
 };
