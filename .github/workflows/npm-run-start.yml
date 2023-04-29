@@ -29,5 +29,11 @@ jobs:
 
       - name: Exécution de npm run start
         run: npm run start
+
+      - name: Commit et push
+        run: |
+          git add .
+          git commit -m "Automatic commit from GitHub Actions"
+          git push origin HEAD:master
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
