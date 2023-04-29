@@ -76,7 +76,7 @@ export function compareVersions(version1, version2) {
  * @param {string} commit - Message du Commit.
  * @returns {void}
  */
-export function commitAndPush(file, commit) {
+export function commitAndPush(file, commit, branch) {
     try {
         // Ajouter le fichier au suivi de Git
         execSync(`git add ${file}`);
@@ -85,7 +85,7 @@ export function commitAndPush(file, commit) {
         execSync(`git commit -m "${commit}"`);
 
         // Effectuer le push
-        execSync('git push');
+        execSync(`git push origin HEAD:${branch}`);
 
         console.log(`The file ${file} has been committed and pushed to Git.`);
     } catch (error) {

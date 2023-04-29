@@ -111,5 +111,5 @@ const SETTINGS = { method: "Get" };
     writeFileSync(Config.freezeFilePath, JSON.stringify(finalList, null, 2));
 
     if(Config.autoCommitPush)
-        commitAndPush(Config.freezeFilePath, Config.commitMessage);
+        commitAndPush(Config.freezeFilePath, Config.commitMessage, Config.commitBranch);
 })()

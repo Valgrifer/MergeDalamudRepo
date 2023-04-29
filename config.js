@@ -15,6 +15,8 @@ const config = {
     autoCommitPush: true,
     /** @var {string} **/
     commitMessage: "test",
+    /** @var {string} **/
+    commitBranch: "master",
 };
 
 
