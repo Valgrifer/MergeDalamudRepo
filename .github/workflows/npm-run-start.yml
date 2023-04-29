@@ -32,8 +32,8 @@ jobs:
 
       - name: Commit et push
         run: |
-          git add .
-          git commit -m "Automatic commit from GitHub Actions"
+          git add ./repo.json
+          git commit -m "Auto-Update"
           git push origin HEAD:master
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
