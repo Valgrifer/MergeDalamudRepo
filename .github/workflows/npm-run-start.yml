@@ -1,4 +1,4 @@
-name: Exécution de npm run start toutes les heures
+name: Auto-Updater
 
 on:
   schedule:
