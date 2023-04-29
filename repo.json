@@ -1,34 +1,5 @@
 [
   {
-    "Author": "yomishino",
-    "Name": "ActionEffectRange [TEST]",
-    "InternalName": "ActionEffectRange",
-    "AssemblyVersion": "1.0.0.0",
-    "Description": "This plugin provides a visual cue on the effect range of the AoE action you just used.\n\nMay be used as a supplement/replacement to the actions' VFXs in showing effect range related information, such as where has the action landed and how large an area it covered.\n\nPlugin from https://raw.githubusercontent.com/yomishino/MyDalamudPlugins/main/plugins.json",
-    "CategoryTags": [
-      "UI"
-    ],
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/yomishino/FFXIVActionEffectRange",
-    "DalamudApiLevel": 8,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "LoadPriority": 0,
-    "Punchline": "Provides a visual cue on the effect range of the AoE action just used.",
-    "ImageUrls": null,
-    "IconUrl": "",
-    "IsHide": "False",
-    "IsTestingExclusive": "True",
-    "TestingAssemblyVersion": "2.0.0.0",
-    "DownloadCount": 0,
-    "LastUpdate": "1677939493",
-    "DownloadLinkInstall": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/ActionEffectRange/TEST/latest.zip",
-    "DownloadLinkTesting": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/ActionEffectRange/TEST/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/yomishino/MyDalamudPlugins/raw/main/plugins/ActionEffectRange/TEST/latest.zip",
-    "Changelog": "Major update v2.0 (TESTING). New features & updates: \n - Effect range for automatically triggered actions, such as heals from Earthly Star when the status effect expires \n - Effect range for summoned pets/companions in addition to ACN/SMN/SCH pets, such as DRK's Esteem and MCH's Autoturret (PvP) \n - Improved implementation and other bug fixes",
-    "originRepository": "https://raw.githubusercontent.com/yomishino/MyDalamudPlugins/main/plugins.json"
-  },
-  {
     "Author": "Caraxi, N'esswen Latteh",
     "Name": "Adventurer in Need (N'esswen's variant)",
     "InternalName": "AdventurerInNeed2",
