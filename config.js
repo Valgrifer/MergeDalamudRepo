@@ -14,7 +14,7 @@ const config = {
     /** @var {boolean} **/
     autoCommitPush: true,
     /** @var {string} **/
-    commitMessage: "test",
+    commitMessage: "Repo Auto-Update",
     /** @var {string} **/
     commitBranch: "master",
 };
