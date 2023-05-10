@@ -103,7 +103,7 @@ export default [
     "https://raw.githubusercontent.com/xSunshine06/ffxiv_materialui_accent/master/repo.json",
     "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/pluginmaster.json",
     "https://raw.githubusercontent.com/ykoneee/CraftingList/main/CraftingList/repo.json",
-    "https://raw.githubusercontent.com/yschuurmans/FFXIVMoneyTracker/master/repo.json",
+    "https://raw.githubusercontent.com/yschuurmans/MyDalamudPlugins/master/pluginmaster.json",
     "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json",
     "https://raw.githubusercontent.com/AsgardXIV/Brio/main/repo.json",
     "https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/repo.json",
