@@ -113,7 +113,7 @@
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 55055,
+    "DownloadCount": 55207,
     "LastUpdate": 1683825220,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/Artisan/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/Artisan/latest.zip",
@@ -164,7 +164,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1683906062",
+    "LastUpdated": "1683942557",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -252,12 +252,12 @@
     "Description": "Collect and assign ventures to your retainers from the comfort of your bed.\n\nPlugin from https://love.puni.sh/ment.json",
     "InternalName": "AutoRetainer",
     "AssemblyVersion": "3.1.2.2",
-    "TestingAssemblyVersion": "3.1.2.3",
+    "TestingAssemblyVersion": "3.1.2.4",
     "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 35777,
-    "LastUpdate": 1683912912,
+    "DownloadCount": 35938,
+    "LastUpdate": 1683938396,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
     "DownloadLinkTesting": "https://love.puni.sh/plugins/AutoRetainer/Testing/latest.zip",
@@ -334,7 +334,7 @@
     "RepoUrl": "https://github.com/PunishXIV/Avarice",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 5155,
+    "DownloadCount": 5176,
     "LastUpdate": 1683342748,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
@@ -456,7 +456,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1682384035,
-    "DownloadCount": 29071,
+    "DownloadCount": 29416,
     "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.9/BDTHPlugin.zip",
     "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.9/BDTHPlugin.zip",
     "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.9/BDTHPlugin.zip",
@@ -612,7 +612,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
-    "DownloadCount": 10831,
+    "DownloadCount": 10929,
     "LastUpdate": "1681869097",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -854,7 +854,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-    "DownloadCount": 1930,
+    "DownloadCount": 1955,
     "LastUpdate": "1680237651",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -875,7 +875,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DDD/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DDD/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1683906062",
+    "LastUpdated": "1683942557",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -924,7 +924,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1683906062",
+    "LastUpdated": "1683942557",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -1094,7 +1094,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-    "DownloadCount": 302,
+    "DownloadCount": 309,
     "LastUpdate": "1680237651",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -1197,7 +1197,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Enhanced Experience Bar\n\n- Fixed: Exiting the Duty Recorder would crash the game, because the experience bar is used immediately after the zone change before it's fully set up.",
-    "DownloadCount": 1535,
+    "DownloadCount": 1554,
     "LastUpdate": 1683142408,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.9.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.9.3/latest.zip",
@@ -1223,7 +1223,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1674892759,
-    "DownloadCount": 41904,
+    "DownloadCount": 42024,
     "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
     "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
     "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
@@ -1348,8 +1348,8 @@
     "Punchline": "A parsing plugin.",
     "Description": "能在replay里面使用的和使用edgetts的加强版\n\nPlugin from https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
     "InternalName": "IINACT",
-    "AssemblyVersion": "2.1.3.0",
-    "RepoUrl": "https://github.com/marzent/IINACT",
+    "AssemblyVersion": "2.1.3.1",
+    "RepoUrl": "https://github.com/tssailzz8/IINACT",
     "ApplicableVersion": "any",
     "Tags": [
       "parsing",
@@ -1364,7 +1364,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/IINACT/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/IINACT/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1683906062",
+    "LastUpdated": "1683942557",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -1532,7 +1532,7 @@
     "RepoUrl": "https://love.puni.sh/ment.json",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 641,
+    "DownloadCount": 659,
     "LastUpdate": 1683310338,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
@@ -1578,7 +1578,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: To prevent the tab order from being reset, the \"Queue\" and \"Recipe Tree\" tabs are now always displayed.",
-    "DownloadCount": 357,
+    "DownloadCount": 360,
     "LastUpdate": 1682272038,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.2/latest.zip",
@@ -1623,7 +1623,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Line/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Line/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1683906062",
+    "LastUpdated": "1683942557",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -1653,7 +1653,7 @@
     "Punchline": "锁定",
     "Description": "锁定BOSS /LockBOSS change 1 靠近水晶切换1号线路\n/LockBOSS qi骑上最近的人\n/LockBOSS cai采集最近的矿,\n\nPlugin from https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
     "InternalName": "Lock",
-    "AssemblyVersion": "1.0.1.8",
+    "AssemblyVersion": "1.0.1.9",
     "RepoUrl": "",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -1665,7 +1665,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1683906062",
+    "LastUpdated": "1683942557",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -2139,7 +2139,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
-    "DownloadCount": 21710,
+    "DownloadCount": 21824,
     "LastUpdate": "1680271014",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -2210,7 +2210,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
-    "DownloadCount": 943,
+    "DownloadCount": 959,
     "LastUpdate": "1680237651",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -2270,7 +2270,7 @@
     "RepoUrl": "https://github.com/PunishXIV/PalacePal",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 1939,
+    "DownloadCount": 2022,
     "LastUpdate": 1683838662,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/PalacePal/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/PalacePal/latest.zip",
@@ -2490,7 +2490,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.3/latest.zip",
-    "DownloadCount": 7823,
+    "DownloadCount": 7912,
     "LastUpdate": "1682735911",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -2547,7 +2547,7 @@
     "RepoUrl": "https://github.com/PunishXIV/Saucy",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 9741,
+    "DownloadCount": 9796,
     "LastUpdate": 1680368826,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/Saucy/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/Saucy/latest.zip",
@@ -2562,7 +2562,7 @@
     "Punchline": "A parsing plugin.",
     "Description": "方便查看buffid和bossid\n\nPlugin from https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
     "InternalName": "SeeBoss",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.0.1",
     "RepoUrl": "",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -2573,7 +2573,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBoss/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBoss/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1683906062",
+    "LastUpdated": "1683942557",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -2582,7 +2582,7 @@
     "Punchline": "buff显示",
     "Description": "SeeBuff/n 能通过/SeeBuff ID buffid time 来自定义显示buff\n\nPlugin from https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
     "InternalName": "SeeBuff",
-    "AssemblyVersion": "1.0.1.5",
+    "AssemblyVersion": "1.0.1.6",
     "RepoUrl": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -2594,7 +2594,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1683906062",
+    "LastUpdated": "1683942557",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -2617,6 +2617,27 @@
     "DownloadCount": 0,
     "LastUpdated": "0",
     "originRepository": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
+  },
+  {
+    "Author": "",
+    "Name": "SeletRollItem",
+    "Punchline": "自定义快捷键后，鼠标移动到物品上快速roll点或放弃",
+    "Description": "自定义快捷键后，鼠标移动到物品上快速roll点或放弃\n使用/SeletRollItem pai能排相关副本理符/SeletRollItem pai 随机任务：练级排练级本\n\nPlugin from https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
+    "InternalName": "SeletRollItem",
+    "AssemblyVersion": "1.0.0.6",
+    "RepoUrl": "",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "IconUrl": "",
+    "ImageUrls": [],
+    "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "1683942557",
+    "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
     "Author": "Liza Carvelli, xPumaa",
@@ -3161,7 +3182,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1683906062",
+    "LastUpdated": "1683942557",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -3181,7 +3202,7 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [],
-    "LastUpdate": 1683907914,
+    "LastUpdate": 1683943126,
     "DownloadLinkInstall": "https://steam.valgrifer.fr/DalamudRepo/404.zip",
     "DownloadLinkUpdate": "https://steam.valgrifer.fr/DalamudRepo/404.zip",
     "Tags": [
