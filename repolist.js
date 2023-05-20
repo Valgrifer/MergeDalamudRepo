@@ -109,4 +109,5 @@ export default [
     "https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/repo.json",
     "http://repo.modloader64.com/ffxiv/plugins.json",
     "https://raw.githubusercontent.com/chirpxiv/PalettePlus/main/repo.json",
+    "https://raw.githubusercontent.com/etnAtker/BetterPartyFinder2/main/BetterPartyFinderE.json",
 ];
