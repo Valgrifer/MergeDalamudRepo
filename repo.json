@@ -109,12 +109,12 @@
     ],
     "InternalName": "Artisan",
     "AssemblyVersion": "1.7.5.0",
-    "TestingAssemblyVersion": "1.7.5.9",
+    "TestingAssemblyVersion": "1.7.5.11",
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 58270,
-    "LastUpdate": 1684247286,
+    "DownloadCount": 59671,
+    "LastUpdate": 1684682084,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/Artisan/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/Artisan/latest.zip",
     "DownloadLinkTesting": "https://love.puni.sh/plugins/Artisan/Testing/latest.zip",
@@ -164,7 +164,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1684075394",
+    "LastUpdated": "1684762951",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -187,7 +187,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "2.4.4.1",
     "LastUpdated": 1678303302,
-    "DownloadCount": 5454,
+    "DownloadCount": 5963,
     "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip",
     "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip",
@@ -256,7 +256,7 @@
     "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 42486,
+    "DownloadCount": 43257,
     "LastUpdate": 1684009036,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
@@ -334,7 +334,7 @@
     "RepoUrl": "https://github.com/PunishXIV/Avarice",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 5585,
+    "DownloadCount": 5852,
     "LastUpdate": 1683342748,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
@@ -456,7 +456,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1682384035,
-    "DownloadCount": 33496,
+    "DownloadCount": 35041,
     "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.9/BDTHPlugin.zip",
     "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.9/BDTHPlugin.zip",
     "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.9/BDTHPlugin.zip",
@@ -594,14 +594,14 @@
     "Name": "Brio",
     "Description": "Control actors during GPose sessions.\n\nPlugin from https://raw.githubusercontent.com/AsgardXIV/Brio/main/repo.json",
     "InternalName": "Brio",
-    "AssemblyVersion": "0.1.8.4",
-    "TestingAssemblyVersion": "0.1.8.4",
+    "AssemblyVersion": "0.1.8.6",
+    "TestingAssemblyVersion": "0.1.8.6",
     "RepoUrl": "https://github.com/AsgardXIV/Brio",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadLinkInstall": "https://github.com/AsgardXIV/Brio/releases/download/v0.1.8.4/Brio.zip",
-    "DownloadLinkTesting": "https://github.com/AsgardXIV/Brio/releases/download/v0.1.8.4/Brio.zip",
-    "DownloadLinkUpdate": "https://github.com/AsgardXIV/Brio/releases/download/v0.1.8.4/Brio.zip",
+    "DownloadLinkInstall": "https://github.com/AsgardXIV/Brio/releases/download/v0.1.8.6/Brio.zip",
+    "DownloadLinkTesting": "https://github.com/AsgardXIV/Brio/releases/download/v0.1.8.6/Brio.zip",
+    "DownloadLinkUpdate": "https://github.com/AsgardXIV/Brio/releases/download/v0.1.8.6/Brio.zip",
     "IconUrl": "https://raw.githubusercontent.com/AsgardXIV/Brio/main/Resources/Images/BrioIcon.png",
     "Tags": [
       "gpose",
@@ -652,7 +652,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
-    "DownloadCount": 11925,
+    "DownloadCount": 12301,
     "LastUpdate": "1681869097",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -815,7 +815,7 @@
     "Punchline": "Craft stuffs",
     "Description": "Craft your things\n\nPlugin from https://raw.githubusercontent.com/Junie-774/CraftingList/main/CraftingList/repo.json",
     "InternalName": "CraftingList",
-    "AssemblyVersion": "2.2.0",
+    "AssemblyVersion": "2.3.1",
     "ApplicableVersion": "any",
     "Tags": [
       "craft"
@@ -894,7 +894,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-    "DownloadCount": 2293,
+    "DownloadCount": 2428,
     "LastUpdate": "1680237651",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -915,7 +915,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DDD/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DDD/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1684075394",
+    "LastUpdated": "1684762951",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -964,7 +964,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1684075394",
+    "LastUpdated": "1684762951",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -986,6 +986,30 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/DutyAnnouncer/latest.zip",
     "Changelog": "API 8 and .NET7",
     "originRepository": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/main/pluginmaster.json"
+  },
+  {
+    "Author": "Frogworks Interactive",
+    "Name": "Easy Inventory Sort",
+    "Punchline": "sort your inventory a little faster",
+    "Description": "description\n\nPlugin from https://raw.githubusercontent.com/Frogworks-Interactive/PluginRepository/main/repo.json",
+    "InternalName": "EasySort",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "sort",
+      "plugin",
+      "inventory"
+    ],
+    "DalamudApiLevel": 8,
+    "RepoUrl": "https://github.com/Frogworks-Interactive/EasySort",
+    "AssemblyVersion": "0.0.0.5",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1684918732,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.5-alpha/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.5-alpha/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.5-alpha/latest.zip",
+    "originRepository": "https://raw.githubusercontent.com/Frogworks-Interactive/PluginRepository/main/repo.json"
   },
   {
     "Author": "BiscuitUmu, Kazumi, KatawaJoJo",
@@ -1134,7 +1158,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-    "DownloadCount": 361,
+    "DownloadCount": 377,
     "LastUpdate": "1680237651",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -1225,7 +1249,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "14.10.0",
+    "AssemblyVersion": "14.11.0",
     "Description": "Keep on tweaking.\n\nPlugin from https://raw.githubusercontent.com/Haselnussbomber/DalamudPlugins/main/repo.json",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -1236,11 +1260,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Some text has been translated into French and Japanese by using ChatGPT (commit 2d24063).  \nPlease file a bug if any translation is incorrect.\n\nScrollable Tabs\n\n- Added: Support for the Chocobo Saddlebag window.\n  - The second tab requires a subscription to the Companion Premium Service.\n- Added: Support for the Currency window.\n- Fixed: In the \"Open All\" Inventory, scrolling over the crystal grid now correctly switches tabs.",
-    "DownloadCount": 0,
-    "LastUpdate": 1684602998,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.10.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.10.0/latest.zip",
+    "Changelog": "Preliminary update for Patch 6.4 (staging).\n\nKnown Issues\n\n- DTR: Busy status and Instance number are not showing until ClientStructs are updated and shipped with a new Dalamud version.\n- Search the markets: Currently disabled until Dalamud.ContextMenu is updated.\n\nScrollable Tabs\n\n- Added: Support for the Character window, including Classes/Jobs and Reputation tabs.",
+    "DownloadCount": 116,
+    "LastUpdate": 1684893759,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.0/latest.zip",
     "originRepository": "https://raw.githubusercontent.com/Haselnussbomber/DalamudPlugins/main/repo.json"
   },
   {
@@ -1248,7 +1272,7 @@
     "Name": "Heels Plugin",
     "Description": "Offsets your character off the ground for when wearing heels.\n\nPlugin from https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/main/repo.json",
     "InternalName": "HeelsPlugin",
-    "AssemblyVersion": "1.3.2",
+    "AssemblyVersion": "1.3.3",
     "RepoUrl": "https://github.com/LeonBlade/HeelsPlugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -1262,11 +1286,11 @@
     "IconUrl": "https://github.com/LeonBlade/HeelsPlugin/raw/main/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1674892759,
-    "DownloadCount": 43880,
-    "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
-    "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
-    "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
+    "LastUpdated": 1684890945,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.3/HeelsPlugin.zip",
+    "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.3/HeelsPlugin.zip",
+    "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.3/HeelsPlugin.zip",
     "originRepository": "https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/main/repo.json"
   },
   {
@@ -1388,7 +1412,7 @@
     "Punchline": "A parsing plugin.",
     "Description": "能在replay里面使用的和使用edgetts的加强版\n\nPlugin from https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
     "InternalName": "IINACT",
-    "AssemblyVersion": "2.1.3.2",
+    "AssemblyVersion": "2.1.3.4",
     "RepoUrl": "https://github.com/tssailzz8/IINACT",
     "ApplicableVersion": "any",
     "Tags": [
@@ -1404,7 +1428,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/IINACT/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/IINACT/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1684075394",
+    "LastUpdated": "1684762951",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -1539,8 +1563,8 @@
     "Name": "Ktisis",
     "InternalName": "Ktisis",
     "Description": "A robust posing tool for creating screenshots in GPose.\n\nPlugin from https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/repo.json",
-    "AssemblyVersion": "0.2.7",
-    "TestingAssemblyVersion": "0.2.7",
+    "AssemblyVersion": "0.2.8",
+    "TestingAssemblyVersion": "0.2.8",
     "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -1550,9 +1574,9 @@
       "ktisis"
     ],
     "IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
-    "DownloadLinkInstall": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.7/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.7/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.7/latest.zip",
+    "DownloadLinkInstall": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.8/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.8/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.8/latest.zip",
     "originRepository": "https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/repo.json"
   },
   {
@@ -1572,7 +1596,7 @@
     "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 1119,
+    "DownloadCount": 1333,
     "LastUpdate": 1683310338,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
@@ -1586,7 +1610,7 @@
     "Name": "Lemegeton",
     "Description": "Your ultimate ingame companion; spells and enchantments to make your gameplay experience a little more magical.\n\nPlugin from https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/repo.json",
     "InternalName": "Lemegeton",
-    "AssemblyVersion": "1.0.0.17",
+    "AssemblyVersion": "1.0.1.0",
     "RepoUrl": "https://github.com/paissaheavyindustries/Lemegeton",
     "IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/lemegeton.png",
     "ApplicableVersion": "any",
@@ -1598,9 +1622,9 @@
     "IsTestingExclusive": "False",
     "LastUpdated": 0,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.0.17/Lemegeton_1_0_0_17.zip",
-    "DownloadLinkTesting": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.0.17/Lemegeton_1_0_0_17.zip",
-    "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.0.17/Lemegeton_1_0_0_17.zip",
+    "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.0/Lemegeton_1_0_1_0.zip",
+    "DownloadLinkTesting": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.0/Lemegeton_1_0_1_0.zip",
+    "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.0/Lemegeton_1_0_1_0.zip",
     "originRepository": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/repo.json"
   },
   {
@@ -1618,7 +1642,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Fixed: To prevent the tab order from being reset, the \"Queue\" and \"Recipe Tree\" tabs are now always displayed.",
-    "DownloadCount": 395,
+    "DownloadCount": 408,
     "LastUpdate": 1682272038,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.2/latest.zip",
@@ -1663,7 +1687,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Line/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Line/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1684075394",
+    "LastUpdated": "1684762951",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -1695,7 +1719,7 @@
     "Punchline": "锁定",
     "Description": "锁定BOSS /LockBOSS change 1 靠近水晶切换1号线路\n/LockBOSS qi骑上最近的人\n/LockBOSS cai采集最近的矿,\n\nPlugin from https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
     "InternalName": "Lock",
-    "AssemblyVersion": "1.0.2.1",
+    "AssemblyVersion": "1.0.2.2",
     "RepoUrl": "",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -1707,7 +1731,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1684075394",
+    "LastUpdated": "1684762951",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -1932,7 +1956,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.1.2.3",
     "LastUpdated": 1674001897,
-    "DownloadCount": 441,
+    "DownloadCount": 464,
     "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
     "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
@@ -2062,7 +2086,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1673721064,
-    "DownloadCount": 1420,
+    "DownloadCount": 1449,
     "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
     "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
     "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
@@ -2181,7 +2205,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
-    "DownloadCount": 23234,
+    "DownloadCount": 23804,
     "LastUpdate": "1680271014",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -2252,7 +2276,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
-    "DownloadCount": 1156,
+    "DownloadCount": 1221,
     "LastUpdate": "1680237651",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -2312,7 +2336,7 @@
     "RepoUrl": "https://github.com/PunishXIV/PalacePal",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 2671,
+    "DownloadCount": 2992,
     "LastUpdate": 1683838662,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/PalacePal/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/PalacePal/latest.zip",
@@ -2327,8 +2351,8 @@
     "InternalName": "PalettePlus",
     "Punchline": "Custom color palettes for FFXIV characters.",
     "Description": "Custom color palettes for FFXIV characters.\n\nPlugin from https://raw.githubusercontent.com/chirpxiv/PalettePlus/main/repo.json",
-    "AssemblyVersion": "0.3.8",
-    "TestingAssemblyVersion": "0.3.8",
+    "AssemblyVersion": "0.3.9",
+    "TestingAssemblyVersion": "0.3.9",
     "RepoUrl": "https://github.com/chirpxiv/PalettePlus",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -2339,9 +2363,9 @@
       "chirp"
     ],
     "IconUrl": "https://github.com/chirpxiv/PalettePlus/raw/main/icon.png",
-    "DownloadLinkInstall": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.8/latest.zip",
-    "DownloadLinkTesting": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.8/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.8/latest.zip",
+    "DownloadLinkInstall": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.9/latest.zip",
+    "DownloadLinkTesting": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.9/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.9/latest.zip",
     "originRepository": "https://raw.githubusercontent.com/chirpxiv/PalettePlus/main/repo.json"
   },
   {
@@ -2355,12 +2379,12 @@
     ],
     "InternalName": "PandorasBox",
     "AssemblyVersion": "1.1.0.0",
-    "TestingAssemblyVersion": "1.1.0.1",
+    "TestingAssemblyVersion": "1.1.0.2",
     "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 1912,
-    "LastUpdate": 1684604978,
+    "DownloadCount": 2561,
+    "LastUpdate": 1684680446,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/Pandora/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/Pandora/latest.zip",
     "DownloadLinkTesting": "https://love.puni.sh/plugins/Pandora/Testing/latest.zip",
@@ -2556,7 +2580,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.3/latest.zip",
-    "DownloadCount": 8876,
+    "DownloadCount": 9272,
     "LastUpdate": "1682735911",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -2613,7 +2637,7 @@
     "RepoUrl": "https://github.com/PunishXIV/Saucy",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 10675,
+    "DownloadCount": 11062,
     "LastUpdate": 1680368826,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/Saucy/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/Saucy/latest.zip",
@@ -2639,7 +2663,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBoss/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBoss/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1684075394",
+    "LastUpdated": "1684762951",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -2660,7 +2684,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1684075394",
+    "LastUpdated": "1684762951",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -2702,7 +2726,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1684075394",
+    "LastUpdated": "1684762951",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -3115,7 +3139,7 @@
     "Name": "XIV Combo Expandedest",
     "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras.",
     "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!\n\nPlugin from https://raw.githubusercontent.com/Grammernatzi/MyDalamudPlugins/master/pluginmaster.json",
-    "Changelog": "1.4.1.0:\r\n* Black Mage Fire/Blizzard Switch Feature added.\r\n* Extensive Paladin changes. Some new features, some changed ones, a lot of removed ones.\r\n\r\n1.4.1.2:\r\n* Paladin Confiteor Feature returned (but it works differently and much more simply).\r\n* Paladin Royal Authority to Holy Spirit Feature added.\r\n\r\n1.4.1.6:\r\n* Dropping Atonement is now no longer considered a damage gain. Therefore, Royal Authority to Atonement is back on the menu.\r\n\r\n1.4.1.8:\r\n* Royal Authority to Holy Spirit decoupled from combo (still works with it, of course).\r\n* Shield Lob to Holy Spirit added.\r\n* Fight or Flight to Requiescat added.\r\n\r\n1.4.1.92:\r\n* Shield Lob to Holy Spirit Movement Option added.\r\n* Reprisal Lockout Feature now also includes Addle/Feint.\r\n* Physical Ranged DPS Defense Cooldown Lockout Feature added.\r\n\r\nIf a recent change isn't documented on this changelog, it is because it doesn't affect plugin functionality, or is a minor bugfix.",
+    "Changelog": "1.4.1.92:\r\n* Shield Lob to Holy Spirit Movement Option added.\r\n* Reprisal Lockout Feature now also includes Addle/Feint.\r\n* Physical Ranged DPS Defense Cooldown Lockout Feature added.\r\n\r\n1.4.2.0:\r\n* Updated for 6.4.\r\n* Removed Fairy Feature Selene Option. All hail healing Carbuncle.\r\n\r\nIf a recent change isn't documented on this changelog, it is because it doesn't affect plugin functionality, or is a minor bugfix.",
     "InternalName": "XIVComboExpandedest",
     "AssemblyVersion": "1.4.1.92",
     "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
@@ -3130,7 +3154,7 @@
     "DownloadLinkTesting": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
     "DownloadLinkUpdate": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1684133180",
+    "LastUpdate": "1684921468",
     "originRepository": "https://raw.githubusercontent.com/Grammernatzi/MyDalamudPlugins/master/pluginmaster.json"
   },
   {
@@ -3248,7 +3272,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1684075394",
+    "LastUpdated": "1684762951",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -3268,7 +3292,7 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [],
-    "LastUpdate": 1684615163,
+    "LastUpdate": 1684923031,
     "DownloadLinkInstall": "https://steam.valgrifer.fr/DalamudRepo/404.zip",
     "DownloadLinkUpdate": "https://steam.valgrifer.fr/DalamudRepo/404.zip",
     "Tags": [
