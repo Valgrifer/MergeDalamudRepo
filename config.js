@@ -12,6 +12,8 @@ const config = {
     /** @var {string} **/
     freezeFilePath: "repo.json",
     /** @var {boolean} **/
+    sendWebHook: true,
+    /** @var {boolean} **/
     autoCommitPush: true,
     /** @var {string} **/
     commitMessage: "Repo Auto-Update",

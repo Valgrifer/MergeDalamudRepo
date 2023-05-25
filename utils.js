@@ -1,5 +1,6 @@
 import {readFileSync} from 'fs';
 import {execSync} from 'child_process';
+import axios from "axios";
 
 /**
  * @typedef {Object} RepoItem
@@ -74,6 +75,7 @@ export function compareVersions(version1, version2) {
  * Effectue un commit et un push d'un fichier sur Git.
  * @param {string} file - Le chemin vers le fichier à committer et à pousser.
  * @param {string} commit - Message du Commit.
+ * @param {string} branch - Branch du Commit.
  * @returns {void}
  */
 export function commitAndPush(file, commit, branch) {
@@ -91,4 +93,32 @@ export function commitAndPush(file, commit, branch) {
     } catch (error) {
         console.error(`An error occurred while executing Git commands: ${error.message}`);
     }
+}
+
+const discordLink = process.env.DISCORD_LINK;
+/**
+ * Envoie un message Discord avec les détails d'un plugin.
+ * @param {RepoItem} plugin - Les informations du plugin.
+ * @returns {Promise<void>} Une promesse résolue lorsque le message est envoyé avec succès, ou rejetée en cas d'erreur.
+ */
+export async function sendMessage(plugin) {
+    try {
+        await axios.post(discordLink, {
+            embeds: [
+                {
+                    "title": plugin.Name,
+                    "description": plugin.Changelog,
+                    "color": 9510430,
+                    "author": {
+                        "name": plugin.Author
+                    },
+                    "thumbnail": {
+                        "url": plugin.IconUrl
+                    }
+                }
+            ],
+            "username": plugin.Author,
+        });
+
+    } catch (error) {}
 }

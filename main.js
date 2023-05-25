@@ -4,7 +4,7 @@ import Repolist from "./repolist.js";
 import Config from "./config.js";
 import fetch from "node-fetch";
 import {readFileSync, writeFileSync} from "fs";
-import {fixJSON, findUrlLine, compareVersions, commitAndPush} from "./utils.js";
+import {fixJSON, findUrlLine, compareVersions, commitAndPush, sendMessage} from "./utils.js";
 
 const SETTINGS = { method: "Get" };
 
@@ -91,7 +91,7 @@ const SETTINGS = { method: "Get" };
      */
     const oldJson = JSON.parse(readFileSync(Config.freezeFilePath, {encoding:'utf8', flag:'r'}));
 
-    if(finalList.filter(el => {
+    const updated = finalList.filter(el => {
         if(el.InternalName === Config.defaultInfoPlugin.InternalName)
             return false;
 
@@ -101,7 +101,9 @@ const SETTINGS = { method: "Get" };
             return true;
 
         return compareVersions(el.AssemblyVersion, find.AssemblyVersion) !== el.AssemblyVersion;
-    }).length === 0)
+    });
+
+    if(updated.length === 0)
     {
         console.log("No Update Found!!");
         return;
@@ -110,6 +112,10 @@ const SETTINGS = { method: "Get" };
 
     writeFileSync(Config.freezeFilePath, JSON.stringify(finalList, null, 2));
 
-    if(Config.autoCommitPush)
+    if(Config.autoCommitPush) {
+        if(Config.sendWebHook)
+            await Promise.all(updated.map(sendMessage));
+
         commitAndPush(Config.freezeFilePath, Config.commitMessage, Config.commitBranch);
+    }
 })()

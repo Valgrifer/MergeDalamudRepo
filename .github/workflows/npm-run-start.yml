@@ -31,3 +31,4 @@ jobs:
         run: npm run start
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+          DISCORD_LINK: ${{ secrets.DISCORD_LINK }}
