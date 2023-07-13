@@ -107,12 +107,12 @@
       "crafting"
     ],
     "InternalName": "Artisan",
-    "AssemblyVersion": "2.0.0.0",
+    "AssemblyVersion": "2.0.0.2",
     "TestingAssemblyVersion": "1.9.0.12",
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 116529,
+    "DownloadCount": 128496,
     "LastUpdate": 1688759354,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/Artisan/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/Artisan/latest.zip",
@@ -163,7 +163,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1687268376",
+    "LastUpdated": "1689088078",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -186,7 +186,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "2.4.4.1",
     "LastUpdated": 1678303302,
-    "DownloadCount": 8297,
+    "DownloadCount": 8526,
     "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip",
     "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip",
@@ -255,7 +255,7 @@
     "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 59705,
+    "DownloadCount": 60047,
     "LastUpdate": 1686948630,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
@@ -333,7 +333,7 @@
     "RepoUrl": "https://github.com/PunishXIV/Avarice",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 11830,
+    "DownloadCount": 12000,
     "LastUpdate": 1686174812,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
@@ -651,7 +651,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
-    "DownloadCount": 18199,
+    "DownloadCount": 18587,
     "LastUpdate": "1681869097",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -893,7 +893,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-    "DownloadCount": 4781,
+    "DownloadCount": 4990,
     "LastUpdate": "1680237651",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -914,7 +914,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DDD/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DDD/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1687268376",
+    "LastUpdated": "1689088078",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -963,7 +963,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1687268376",
+    "LastUpdated": "1689088078",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -1088,7 +1088,7 @@
     "Name": "FFXIV Vibe Plugin",
     "Description": "Plugin that let you vibe your controller or toys\n\nPlugin from https://raw.githubusercontent.com/kaciexx/FFXIV_Vibe_Plugin/master/repo.json",
     "InternalName": "FFXIV_Vibe_Plugin",
-    "AssemblyVersion": "2.2.0.0",
+    "AssemblyVersion": "2.3.0.0",
     "RepoUrl": "https://github.com/kaciexx/FFXIV_Vibe_Plugin",
     "ApplicableVersion": "any",
     "Tags": [
@@ -1100,11 +1100,11 @@
     "IconUrl": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/raw/master/images/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1687359201,
-    "DownloadCount": 6699,
-    "DownloadLinkInstall": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.2.0.0/FFXIV_Vibe_Plugin_v2.2.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.2.0.0/FFXIV_Vibe_Plugin_v2.2.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.2.0.0/FFXIV_Vibe_Plugin_v2.2.0.0.zip",
+    "LastUpdated": 1688982549,
+    "DownloadCount": 6799,
+    "DownloadLinkInstall": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.3.0.0/FFXIV_Vibe_Plugin_v2.3.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.3.0.0/FFXIV_Vibe_Plugin_v2.3.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.3.0.0/FFXIV_Vibe_Plugin_v2.3.0.0.zip",
     "originRepository": "https://raw.githubusercontent.com/kaciexx/FFXIV_Vibe_Plugin/master/repo.json"
   },
   {
@@ -1154,7 +1154,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-    "DownloadCount": 536,
+    "DownloadCount": 547,
     "LastUpdate": "1680237651",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -1227,8 +1227,8 @@
       "Character"
     ],
     "InternalName": "Glamourer",
-    "AssemblyVersion": "0.1.3.1",
-    "TestingAssemblyVersion": "0.1.3.1",
+    "AssemblyVersion": "0.1.1.5",
+    "TestingAssemblyVersion": "0.2.0.2",
     "RepoUrl": "https://github.com/Ottermandias/Glamourer",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -1238,6 +1238,7 @@
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://github.com/Ottermandias/Glamourer/raw/main/Glamourer.zip",
     "DownloadLinkUpdate": "https://github.com/Ottermandias/Glamourer/raw/main/Glamourer.zip",
+    "DownloadLinkTesting": "https://github.com/Ottermandias/Glamourer/raw/main/GlamourerTest.zip",
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png",
     "originRepository": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json"
   },
@@ -1245,7 +1246,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "15.1.4",
+    "AssemblyVersion": "15.3.0",
     "Description": "Keep on tweaking.\n\nPlugin from https://raw.githubusercontent.com/Haselnussbomber/DalamudPlugins/main/repo.json",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -1256,11 +1257,11 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Custom Chat Timestamp\n\n- Added: Changing the format will now automatically refresh the chat.",
-    "DownloadCount": 1592,
-    "LastUpdate": 1688245046,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.1.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.1.4/latest.zip",
+    "Changelog": "Search the markets\n\n- Added: Support for Ehcatl Nine Delivery Quests items (via `/timers`).",
+    "DownloadCount": 1332,
+    "LastUpdate": 1688944691,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.3.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.3.0/latest.zip",
     "originRepository": "https://raw.githubusercontent.com/Haselnussbomber/DalamudPlugins/main/repo.json"
   },
   {
@@ -1382,7 +1383,7 @@
     "Punchline": "A parsing plugin.",
     "Description": "能在replay里面使用的和使用edgetts的加强版\n\nPlugin from https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
     "InternalName": "IINACT",
-    "AssemblyVersion": "2.1.3.5",
+    "AssemblyVersion": "2.1.3.6",
     "RepoUrl": "https://github.com/tssailzz8/IINACT",
     "ApplicableVersion": "any",
     "Tags": [
@@ -1398,7 +1399,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/IINACT/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/IINACT/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1687268376",
+    "LastUpdated": "1689088078",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -1570,7 +1571,7 @@
     "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 8441,
+    "DownloadCount": 8588,
     "LastUpdate": 1686496772,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
@@ -1605,21 +1606,22 @@
     "Author": "Haselnussbomber",
     "Name": "LeveHelper",
     "InternalName": "LeveHelper",
-    "AssemblyVersion": "2.0.3",
+    "AssemblyVersion": "2.0.4",
     "Description": "A little helper to check which Levequests have been completed and which are missing.\n\nPlugin from https://raw.githubusercontent.com/Haselnussbomber/DalamudPlugins/main/repo.json",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
     "DalamudApiLevel": 8,
     "LoadRequiredState": 0,
     "LoadSync": false,
+    "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
-    "Changelog": "Updated for Patch 6.4.\n\nSome text has been translated into French and Japanese by using ChatGPT (commit ee6316c).  \nPlease file a bug if any translation is incorrect.",
-    "DownloadCount": 420,
-    "LastUpdate": 1685101682,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.3/latest.zip",
+    "Changelog": "Maintenance update with optimizations and a lot of behind-the-scenes changes:\n\n- The plugin now starts asynchronously, which should result in a slightly faster startup of the game.\n- Instead of loading all item icons at once when opening the window, the icons are now only loaded when they scroll into the viewport.\n- Instead of creating the LeveHelper window when the plugin loads, it's now created only when the player wants to open it. Likewise, the window and it's icons are now unloaded when the window gets closed.\n- Instead of manually caching levequests and items, I extended the Lumina sheets and now let Lumina do most of the caching.",
+    "DownloadCount": 258,
+    "LastUpdate": 1688853527,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.4/latest.zip",
     "originRepository": "https://raw.githubusercontent.com/Haselnussbomber/DalamudPlugins/main/repo.json"
   },
   {
@@ -1661,7 +1663,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Line/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Line/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1687268376",
+    "LastUpdated": "1689088078",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -1705,7 +1707,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1687268376",
+    "LastUpdated": "1689088078",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -1930,7 +1932,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.1.2.3",
     "LastUpdated": 1674001897,
-    "DownloadCount": 574,
+    "DownloadCount": 585,
     "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
     "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
@@ -2179,7 +2181,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.13/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.13/latest.zip",
-    "DownloadCount": 20667,
+    "DownloadCount": 21715,
     "LastUpdate": "1686534786",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -2250,7 +2252,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
-    "DownloadCount": 3296,
+    "DownloadCount": 3440,
     "LastUpdate": "1685234965",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -2304,6 +2306,7 @@
     "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
+    "DownloadCount": 434,
     "LastUpdate": 1688850202,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/Orbwalker/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/Orbwalker/latest.zip",
@@ -2327,7 +2330,7 @@
     "RepoUrl": "https://github.com/PunishXIV/PalacePal",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 5876,
+    "DownloadCount": 6263,
     "LastUpdate": 1683838662,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/PalacePal/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/PalacePal/latest.zip",
@@ -2370,12 +2373,12 @@
     ],
     "InternalName": "PandorasBox",
     "AssemblyVersion": "1.3.0.1",
-    "TestingAssemblyVersion": "1.3.0.2",
+    "TestingAssemblyVersion": "1.3.0.10",
     "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 20843,
-    "LastUpdate": 1688574114,
+    "DownloadCount": 21908,
+    "LastUpdate": 1689189430,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/Pandora/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/Pandora/latest.zip",
     "DownloadLinkTesting": "https://love.puni.sh/plugins/Pandora/Testing/latest.zip",
@@ -2571,7 +2574,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
-    "DownloadCount": 10677,
+    "DownloadCount": 11069,
     "LastUpdate": "1685081081",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -2628,7 +2631,7 @@
     "RepoUrl": "https://github.com/PunishXIV/Saucy",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 20433,
+    "DownloadCount": 20899,
     "LastUpdate": 1680368826,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/Saucy/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/Saucy/latest.zip",
@@ -2654,7 +2657,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBoss/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBoss/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1687268376",
+    "LastUpdated": "1689088078",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -2675,7 +2678,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1687268376",
+    "LastUpdated": "1689088078",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -2717,7 +2720,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1687268376",
+    "LastUpdated": "1689088078",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -2759,7 +2762,7 @@
     "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
     "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1685581363",
+    "LastUpdate": "1688857417",
     "originRepository": "https://raw.githubusercontent.com/daemitus/MyDalamudPlugins/master/pluginmaster.json"
   },
   {
@@ -3087,7 +3090,7 @@
     "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
     "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.\n\nPlugin from https://raw.githubusercontent.com/daemitus/MyDalamudPlugins/master/pluginmaster.json",
     "InternalName": "XIVComboExpanded",
-    "AssemblyVersion": "1.4.0.17",
+    "AssemblyVersion": "1.4.0.18",
     "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -3100,7 +3103,7 @@
     "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
     "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1685581363",
+    "LastUpdate": "1688857417",
     "originRepository": "https://raw.githubusercontent.com/daemitus/MyDalamudPlugins/master/pluginmaster.json"
   },
   {
@@ -3242,7 +3245,7 @@
     "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
     "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1685581363",
+    "LastUpdate": "1688857417",
     "originRepository": "https://raw.githubusercontent.com/daemitus/MyDalamudPlugins/master/pluginmaster.json"
   },
   {
@@ -3263,7 +3266,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1687268376",
+    "LastUpdated": "1689088078",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -3283,7 +3286,7 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [],
-    "LastUpdate": 1688839945,
+    "LastUpdate": 1689210410,
     "DownloadLinkInstall": "https://steam.valgrifer.fr/DalamudRepo/404.zip",
     "DownloadLinkUpdate": "https://steam.valgrifer.fr/DalamudRepo/404.zip",
     "Tags": [
