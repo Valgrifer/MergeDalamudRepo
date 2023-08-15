@@ -29,7 +29,7 @@ export default [
     "https://raw.githubusercontent.com/Kaedemi/MakePlacePlugin/master/MakePlacePlugin.json",
     "https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/main/pluginmaster.json",
     "https://raw.githubusercontent.com/Korosys/MyDalamudPlugins/master/pluginmaster.json",
-    "https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/main/repo.json",
+    "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
     "https://raw.githubusercontent.com/LockonS483/AutoJailMarker/master/AutoJailMarker/repo.json",
     // "https://raw.githubusercontent.com/Matthew-Rennie/BisBunToolkit-distrib/main/pluginmaster.json",
     "https://raw.githubusercontent.com/Maxunit/MyDalamudPlugins/master/pluginmaster.json",
