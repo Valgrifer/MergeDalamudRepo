@@ -108,12 +108,12 @@
     ],
     "InternalName": "Artisan",
     "AssemblyVersion": "2.0.0.2",
-    "TestingAssemblyVersion": "2.0.0.13",
+    "TestingAssemblyVersion": "2.0.0.15",
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 136123,
-    "LastUpdate": 1690397938,
+    "DownloadCount": 137320,
+    "LastUpdate": 1691845962,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/Artisan/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/Artisan/latest.zip",
     "DownloadLinkTesting": "https://love.puni.sh/plugins/Artisan/Testing/latest.zip",
@@ -163,7 +163,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1690899422",
+    "LastUpdated": "1691493815",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -186,7 +186,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "2.4.4.1",
     "LastUpdated": 1678303302,
-    "DownloadCount": 9411,
+    "DownloadCount": 9934,
     "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip",
     "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip",
@@ -251,12 +251,12 @@
     "Description": "Collect and assign ventures to your retainers from the comfort of your bed.\n\nPlugin from https://love.puni.sh/ment.json",
     "InternalName": "AutoRetainer",
     "AssemblyVersion": "3.1.4.6",
-    "TestingAssemblyVersion": "3.1.5.1",
+    "TestingAssemblyVersion": "3.1.5.5",
     "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 71183,
-    "LastUpdate": 1691196642,
+    "DownloadCount": 73300,
+    "LastUpdate": 1691612920,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
     "DownloadLinkTesting": "https://love.puni.sh/plugins/AutoRetainer/Testing/latest.zip",
@@ -334,7 +334,7 @@
     "RepoUrl": "https://github.com/PunishXIV/Avarice",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 16640,
+    "DownloadCount": 17347,
     "LastUpdate": 1689878130,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
@@ -592,7 +592,7 @@
   {
     "Author": "Asgard",
     "Name": "Brio",
-    "Description": "Control actors during GPose sessions.\n\nPlugin from https://raw.githubusercontent.com/AsgardXIV/Brio/main/repo.json",
+    "Description": "Control actors during GPose sessions.\n\nPlugin from https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
     "InternalName": "Brio",
     "AssemblyVersion": "0.1.8.7",
     "TestingAssemblyVersion": "0.1.8.7",
@@ -607,9 +607,10 @@
       "gpose",
       "brio",
       "posing",
-      "animation"
+      "animation",
+      "Sea Of Stars"
     ],
-    "originRepository": "https://raw.githubusercontent.com/AsgardXIV/Brio/main/repo.json"
+    "originRepository": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json"
   },
   {
     "Author": "buttplug",
@@ -652,7 +653,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
-    "DownloadCount": 20588,
+    "DownloadCount": 21432,
     "LastUpdate": "1681869097",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -692,8 +693,8 @@
     "Name": "Chat Scanner",
     "Description": "Easily filter messages in crowded environments, bringings some sanity back to RP. \n \n Use /chatScanner settings to opent he settings window.\n\nPlugin from https://raw.githubusercontent.com/serifine/XIV-Chat-Scanner/main/repo.json",
     "InternalName": "ChatScanner",
-    "AssemblyVersion": "2.2.0",
-    "TestingAssemblyVersion": "2.2.0",
+    "AssemblyVersion": "2.3.1",
+    "TestingAssemblyVersion": "2.3.1",
     "RepoUrl": "https://github.com/serifine/XIV-Chat-Scanner",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -704,9 +705,9 @@
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
     "LoadSync": true,
-    "DownloadLinkInstall": "https://github.com/serifine/XIV-Chat-Scanner/releases/download/2.2.0/ChatScanner.zip",
-    "DownloadLinkTesting": "https://github.com/serifine/XIV-Chat-Scanner/releases/download/2.2.0/ChatScanner.zip",
-    "DownloadLinkUpdate": "https://github.com/serifine/XIV-Chat-Scanner/releases/download/2.2.0/ChatScanner.zip",
+    "DownloadLinkInstall": "https://github.com/serifine/XIV-Chat-Scanner/releases/download/2.3.1/ChatScanner.zip",
+    "DownloadLinkTesting": "https://github.com/serifine/XIV-Chat-Scanner/releases/download/2.3.1/ChatScanner.zip",
+    "DownloadLinkUpdate": "https://github.com/serifine/XIV-Chat-Scanner/releases/download/2.3.1/ChatScanner.zip",
     "originRepository": "https://raw.githubusercontent.com/serifine/XIV-Chat-Scanner/main/repo.json"
   },
   {
@@ -832,7 +833,7 @@
   {
     "Author": "XIV Tools",
     "Name": "Customize+",
-    "Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.\n\nPlugin from https://raw.githubusercontent.com/XIV-Tools/DalamudPlugins/main/repo.json",
+    "Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.\n\nPlugin from https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
     "Punchline": "Customize your character beyond FFXIV's limitations.",
     "InternalName": "CustomizePlus",
     "AssemblyVersion": "1.2.5.3",
@@ -848,7 +849,10 @@
     "DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
     "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
     "Changelog": "1.2.5.3 - Added Fix for zeroed and untouched Scales.\r\n\r\nHotfix 2, Performance improvements and a fix for defaulting to disabled.\r\n\r\nIf you installed fresh in the last couple of days, please confirm in the settings that profiles are enabled before reporting issues. This includes applying scales from Mare.",
-    "originRepository": "https://raw.githubusercontent.com/XIV-Tools/DalamudPlugins/main/repo.json"
+    "Tags": [
+      "Sea Of Stars"
+    ],
+    "originRepository": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json"
   },
   {
     "Author": "goat",
@@ -892,7 +896,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-    "DownloadCount": 6066,
+    "DownloadCount": 6462,
     "LastUpdate": "1680237651",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -913,7 +917,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DDD/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DDD/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1690899422",
+    "LastUpdated": "1691493815",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -962,7 +966,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1690899422",
+    "LastUpdated": "1691493815",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -1153,7 +1157,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-    "DownloadCount": 598,
+    "DownloadCount": 619,
     "LastUpdate": "1680237651",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -1227,7 +1231,7 @@
     ],
     "InternalName": "Glamourer",
     "AssemblyVersion": "0.1.3.2",
-    "TestingAssemblyVersion": "0.2.0.21",
+    "TestingAssemblyVersion": "0.2.0.22",
     "RepoUrl": "https://github.com/Ottermandias/Glamourer",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -1245,7 +1249,7 @@
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
-    "AssemblyVersion": "16.0.4",
+    "AssemblyVersion": "16.1.0",
     "Description": "Keep on tweaking.\n\nPlugin from https://raw.githubusercontent.com/Haselnussbomber/DalamudPlugins/main/repo.json",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -1256,12 +1260,44 @@
     "LoadPriority": 0,
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
-    "Changelog": "Scrollable Tabs\n\n- Fixed: It was not possible to scroll the Chocobo Saddlebag when viewing the retainer inventory.",
-    "DownloadCount": 152,
-    "LastUpdate": 1691190356,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.0.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.0.4/latest.zip",
+    "Changelog": "HaselTweaks\n\n- Added: You can now set the plugins language via a Plugin Configuration menu bar in the plugin window. To toggle the menu bar, click on the gear button in the top right corner. The default language, which was previously determined by the client language, is now whatever is set in Dalamud (if not supported, it defaults to English). You can also choose to automatically use whatever the client is using, or set the language directly.  \n  *Please note:* I can only provide full translation in English and German. While French and Japanese are supported as they are part of the game, I only included the few lines I had already translated using ChatGPT. If you want to help translating the plugin into another language, feel free to edit the Translations.json and submit a pull request! :)  \n  To avoid confusion I decided not to translate tweak names (for now).\n\nAether Current Helper\n\n- Changed: The window now hides and unhides automatically with the game UI.\n\nDTR\n\n- Added: A configuration field to change the FPS unit text (default: \" fps\").\n\nEnhanced Experience Bar\n\n- Fixed: The experience bar should no longer get stuck on old data, as it will now try to update it every frame until it's done.\n\nGear Set Grid\n\n- Added: The id column now has a tooltip with the gear set name and the glamour plate id (if linked).\n- Added: The id column now also has a context menu to link/change/unlink glamour plates and edit portraits.\n- Changed: Removed the \"Allow switching gearsets\" option, because that's the default now.\n- Fixed: The mouse cursor no longer changes to a hand when hovering over something because gear sets and items can't be dragged out of the ImGui window.",
+    "DownloadCount": 0,
+    "LastUpdate": 1692108480,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.1.0/latest.zip",
     "originRepository": "https://raw.githubusercontent.com/Haselnussbomber/DalamudPlugins/main/repo.json"
+  },
+  {
+    "AcceptsFeedback": true,
+    "ApplicableVersion": "any",
+    "AssemblyVersion": "1.17.1.0",
+    "Author": "Anna",
+    "CanUnloadAsync": false,
+    "Changelog": "- Fix file swaps not being applied",
+    "DalamudApiLevel": 8,
+    "Description": "Heliosphere is a mod manager and platform designed to work directly with\nPenumbra. It enables efficient downloads and fast installs to let you get back\nto the fun part of mods: using them.\n\nHeliosphere supports:\n- Direct install to Penumbra\n- Compressed and deduplicated (read: small) downloads\n- Partial downloads to get only the features you want\n- Automatic updates\n- Version history\n- Mod changelogs\n- And more\n\nGive Heliosphere a try, and see if you can't say goodbye to any old mod\nplatform you were using before.\n\nPlugin from https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
+    "DownloadLinkInstall": "https://repo.heliosphere.app/latest.zip",
+    "DownloadLinkTesting": "https://repo.heliosphere.app/latest.zip",
+    "DownloadLinkUpdate": "https://repo.heliosphere.app/latest.zip",
+    "IconUrl": "https://repo.heliosphere.app/icon.png",
+    "InternalName": "heliosphere-plugin",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1691700826,
+    "LoadPriority": 0,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "Name": "Heliosphere",
+    "Punchline": "An efficient mod manager and platform that integrates directly with Penumbra.",
+    "RepoUrl": "https://heliosphere.app/",
+    "Tags": [
+      "mods",
+      "modding",
+      "penumbra",
+      "textools",
+      "Sea Of Stars"
+    ],
+    "originRepository": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json"
   },
   {
     "Author": "Bluefissure",
@@ -1403,7 +1439,7 @@
     "Punchline": "A parsing plugin.",
     "Description": "能在replay里面使用的和使用edgetts的加强版\n\nPlugin from https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
     "InternalName": "IINACT",
-    "AssemblyVersion": "2.1.3.7",
+    "AssemblyVersion": "2.1.3.8",
     "RepoUrl": "https://github.com/tssailzz8/IINACT",
     "ApplicableVersion": "any",
     "Tags": [
@@ -1419,7 +1455,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/IINACT/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/IINACT/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1690899422",
+    "LastUpdated": "1691493815",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -1557,7 +1593,7 @@
     "Author": "Chirp",
     "Name": "Ktisis",
     "InternalName": "Ktisis",
-    "Description": "A robust posing tool for creating screenshots in GPose.\n\nPlugin from https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/repo.json",
+    "Description": "A robust posing tool for creating screenshots in GPose.\n\nPlugin from https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
     "AssemblyVersion": "0.2.15",
     "TestingAssemblyVersion": "0.2.15",
     "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
@@ -1566,13 +1602,14 @@
     "Tags": [
       "gpose",
       "posing",
-      "ktisis"
+      "ktisis",
+      "Sea Of Stars"
     ],
     "IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
     "DownloadLinkInstall": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.15/latest.zip",
     "DownloadLinkTesting": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.15/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.15/latest.zip",
-    "originRepository": "https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/repo.json"
+    "originRepository": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json"
   },
   {
     "Author": "53m1k0l0n/Gidedin (Puni.sh)",
@@ -1591,7 +1628,7 @@
     "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 13670,
+    "DownloadCount": 14008,
     "LastUpdate": 1690479090,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
@@ -1626,7 +1663,7 @@
     "Author": "Haselnussbomber",
     "Name": "LeveHelper",
     "InternalName": "LeveHelper",
-    "AssemblyVersion": "2.0.6",
+    "AssemblyVersion": "2.0.8",
     "Description": "A little helper to check which Levequests have been completed and which are missing.\n\nPlugin from https://raw.githubusercontent.com/Haselnussbomber/DalamudPlugins/main/repo.json",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
@@ -1637,11 +1674,11 @@
     "LoadPriority": 0,
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
-    "Changelog": "- Changed: Result items are now displayed as HQ items. You don't need to craft them in HQ, but why miss out on bonus rewards? Now it's easier to see when it's an item you have to turn in. :)\n- Fixed: Not all items that can be gathered were categorized as such due to prematurely aborting a loop.",
-    "DownloadCount": 298,
-    "LastUpdate": 1690751919,
-    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.6/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.6/latest.zip",
+    "Changelog": "Last update made things worse, but I hope this time we got the gatherable items all categorized correctly. \n\n- Added: Hidden gatherables are now marked as hidden in the queue.\n- Added: The plugin has been translated into German. I don't understand other languages, so if you want to translate it into French or Japanese (or any other language), pull requests are welcome.\n- Changed: Queue steps now have indentation for better readability.",
+    "DownloadCount": 234,
+    "LastUpdate": 1691939017,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.8/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.8/latest.zip",
     "originRepository": "https://raw.githubusercontent.com/Haselnussbomber/DalamudPlugins/main/repo.json"
   },
   {
@@ -1683,7 +1720,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Line/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Line/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1690899422",
+    "LastUpdated": "1691493815",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -1727,7 +1764,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1690899422",
+    "LastUpdated": "1691493815",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -1821,6 +1858,29 @@
     "_isDip17Plugin": false,
     "_Dip17Channel": null,
     "originRepository": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/MakePlacePlugin.json"
+  },
+  {
+    "Author": "darkarchon",
+    "Name": "Mare Synchronos",
+    "InternalName": "MareSynchronos",
+    "AssemblyVersion": "0.8.53",
+    "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.\n\nPlugin from https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Penumbra-Sync/client",
+    "Tags": [
+      "customization",
+      "Sea Of Stars"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Penumbra-Sync/repo/main/MareSynchronos/images/icon.png",
+    "Punchline": "Let others see you as you see yourself.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadLinkInstall": "https://cf.maresynchronos.com/release/0.8.53.zip",
+    "DownloadLinkTesting": "https://cf.maresynchronos.com/release/0.8.53.zip",
+    "DownloadLinkUpdate": "https://cf.maresynchronos.com/release/0.8.53.zip",
+    "originRepository": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json"
   },
   {
     "Author": "Chalkos",
@@ -1952,7 +2012,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.1.2.3",
     "LastUpdated": 1674001897,
-    "DownloadCount": 617,
+    "DownloadCount": 638,
     "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
     "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
@@ -2051,7 +2111,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1687955390,
-    "DownloadCount": 5,
+    "DownloadCount": 6,
     "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.3.0/NekoFans.zip",
     "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.3.0/NekoFans.zip",
     "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.3.0/NekoFans.zip",
@@ -2082,7 +2142,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1673721064,
-    "DownloadCount": 1863,
+    "DownloadCount": 1953,
     "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
     "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
     "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
@@ -2201,7 +2261,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.13/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.13/latest.zip",
-    "DownloadCount": 26748,
+    "DownloadCount": 28643,
     "LastUpdate": "1686534786",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -2272,7 +2332,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
-    "DownloadCount": 4140,
+    "DownloadCount": 4451,
     "LastUpdate": "1685234965",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -2326,7 +2386,7 @@
     "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 1674,
+    "DownloadCount": 1855,
     "LastUpdate": 1689250620,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/Orbwalker/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/Orbwalker/latest.zip",
@@ -2350,7 +2410,7 @@
     "RepoUrl": "https://github.com/PunishXIV/PalacePal",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 7951,
+    "DownloadCount": 8266,
     "LastUpdate": 1683838662,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/PalacePal/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/PalacePal/latest.zip",
@@ -2364,7 +2424,7 @@
     "Name": "Palette+",
     "InternalName": "PalettePlus",
     "Punchline": "Custom color palettes for FFXIV characters.",
-    "Description": "Custom color palettes for FFXIV characters.\n\nPlugin from https://raw.githubusercontent.com/chirpxiv/PalettePlus/main/repo.json",
+    "Description": "Custom color palettes for FFXIV characters.\n\nPlugin from https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
     "AssemblyVersion": "0.3.10",
     "TestingAssemblyVersion": "0.3.10",
     "RepoUrl": "https://github.com/chirpxiv/PalettePlus",
@@ -2374,13 +2434,14 @@
       "PalettePlus",
       "color",
       "palette",
-      "chirp"
+      "chirp",
+      "Sea Of Stars"
     ],
     "IconUrl": "https://github.com/chirpxiv/PalettePlus/raw/main/icon.png",
     "DownloadLinkInstall": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.10/latest.zip",
     "DownloadLinkTesting": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.10/latest.zip",
     "DownloadLinkUpdate": "https://github.com/chirpxiv/PalettePlus/releases/download/v0.3.10/latest.zip",
-    "originRepository": "https://raw.githubusercontent.com/chirpxiv/PalettePlus/main/repo.json"
+    "originRepository": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json"
   },
   {
     "Author": "Taurenkey (Puni.sh)",
@@ -2397,7 +2458,7 @@
     "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 29049,
+    "DownloadCount": 30988,
     "LastUpdate": 1690531800,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/Pandora/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/Pandora/latest.zip",
@@ -2427,6 +2488,32 @@
     "DownloadLinkTesting": "https://github.com/ZhyraPlugins/PartyPlanner/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ZhyraPlugins/PartyPlanner/releases/latest/download/latest.zip",
     "originRepository": "https://raw.githubusercontent.com/ZhyraPlugins/repo/main/plugins.json"
+  },
+  {
+    "Author": "Ottermandias, Adam, Wintermute",
+    "Name": "Penumbra",
+    "Description": "Runtime mod loader and manager.\n\nPlugin from https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
+    "InternalName": "Penumbra",
+    "AssemblyVersion": "0.7.2.2",
+    "TestingAssemblyVersion": "0.7.2.7",
+    "RepoUrl": "https://github.com/xivdev/Penumbra",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "LoadPriority": 69420,
+    "LoadRequiredState": 2,
+    "LoadSync": true,
+    "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/0.7.2.2/Penumbra.zip",
+    "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/testing_0.7.2.7/Penumbra.zip",
+    "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/0.7.2.2/Penumbra.zip",
+    "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
+    "Tags": [
+      "Sea Of Stars"
+    ],
+    "originRepository": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json"
   },
   {
     "Author": "yasatoma",
@@ -2594,7 +2681,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
-    "DownloadCount": 12707,
+    "DownloadCount": 13368,
     "LastUpdate": "1685081081",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -2651,7 +2738,7 @@
     "RepoUrl": "https://github.com/PunishXIV/Saucy",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "DownloadCount": 22532,
+    "DownloadCount": 22919,
     "LastUpdate": 1680368826,
     "DownloadLinkInstall": "https://love.puni.sh/plugins/Saucy/latest.zip",
     "DownloadLinkUpdate": "https://love.puni.sh/plugins/Saucy/latest.zip",
@@ -2677,7 +2764,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBoss/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBoss/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1690899422",
+    "LastUpdated": "1691493815",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -2698,7 +2785,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1690899422",
+    "LastUpdated": "1691493815",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -2740,8 +2827,30 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1690899422",
+    "LastUpdated": "1691493815",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
+  },
+  {
+    "Author": "Caraxi",
+    "Name": "Simple Heels",
+    "InternalName": "SimpleHeels",
+    "Description": "Adjust the position of your character model\n\nPlugin from https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
+    "Punchline": "Adjust the position of your character model",
+    "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
+    "AssemblyVersion": "0.6.3.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1691208993",
+    "DownloadLinkInstall": "https://repo.caraxian.com/plugins/SimpleHeels/0.6.3.0.zip",
+    "DownloadLinkTesting": "https://repo.caraxian.com/plugins/SimpleHeels/0.6.3.0.zip",
+    "DownloadLinkUpdate": "https://repo.caraxian.com/plugins/SimpleHeels/0.6.3.0.zip",
+    "Tags": [
+      "Sea Of Stars"
+    ],
+    "originRepository": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json"
   },
   {
     "Author": "Liza Carvelli, xPumaa",
@@ -2932,17 +3041,17 @@
     "Punchline": "Automatically skips subtitle boxes and confirms cutscene skipping. Useful mostly for alt levelling. Requires /at command to be typed on each log in to be enabled.",
     "Description": "Plugin from https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "InternalName": "TextAdvance",
-    "AssemblyVersion": "3.0.0.7",
+    "AssemblyVersion": "3.0.0.9",
     "RepoUrl": "https://github.com/NightmareXIV/TextAdvance",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
     "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/TextAdvance/icon.png",
     "ImageUrls": [],
-    "DownloadLinkInstall": "https://github.com/NightmareXIV/TextAdvance/releases/latest/download/TextAdvance.zip",
+    "DownloadLinkInstall": "https://github.com/NightmareXIV/TextAdvance/releases/latest/download/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/NightmareXIV/TextAdvance/releases/latest/download/TextAdvance.zip",
-    "DownloadLinkUpdate": "https://github.com/NightmareXIV/TextAdvance/releases/latest/download/TextAdvance.zip",
+    "DownloadLinkTesting": "https://github.com/NightmareXIV/TextAdvance/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/NightmareXIV/TextAdvance/releases/latest/download/latest.zip",
     "DownloadCount": 0,
     "LastUpdated": "0",
     "originRepository": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
@@ -2962,7 +3071,7 @@
     "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
     "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1690812122",
+    "LastUpdated": "1691511509",
     "originRepository": "https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json"
   },
   {
@@ -3035,7 +3144,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": 0,
+    "LastUpdate": "1691229209",
     "DownloadLinkInstall": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/vfaux/latest.zip",
     "DownloadLinkTesting": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/vfaux/latest.zip",
     "DownloadLinkUpdate": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/vfaux/latest.zip",
@@ -3045,7 +3154,7 @@
     "Author": "veyn",
     "Name": "Island sanctuary automation",
     "InternalName": "visland",
-    "AssemblyVersion": "0.0.0.1",
+    "AssemblyVersion": "0.0.0.2",
     "Description": "Automate gathering, workshop assignments, etc.\n\nPlugin from https://raw.githubusercontent.com/awgil/ffxiv_plugin_distribution/master/pluginmaster.json",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -3056,7 +3165,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdate": 0,
+    "LastUpdate": "1691229209",
     "DownloadLinkInstall": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/visland/latest.zip",
     "DownloadLinkTesting": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/visland/latest.zip",
     "DownloadLinkUpdate": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/visland/latest.zip",
@@ -3122,7 +3231,7 @@
     "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
     "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1690812122",
+    "LastUpdated": "1691511509",
     "originRepository": "https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json"
   },
   {
@@ -3218,7 +3327,7 @@
     "Name": "XIV Combo Very Expanded",
     "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.\n\nPlugin from https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json",
     "InternalName": "XIVComboVX",
-    "AssemblyVersion": "9.3.0",
+    "AssemblyVersion": "9.4.0",
     "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -3228,7 +3337,7 @@
     "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
     "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1690812122",
+    "LastUpdated": "1691511509",
     "originRepository": "https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json"
   },
   {
@@ -3328,7 +3437,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1690899422",
+    "LastUpdated": "1691493815",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -3348,7 +3457,7 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [],
-    "LastUpdate": 1691230119,
+    "LastUpdate": 1692137321,
     "DownloadLinkInstall": "https://steam.valgrifer.fr/DalamudRepo/404.zip",
     "DownloadLinkUpdate": "https://steam.valgrifer.fr/DalamudRepo/404.zip",
     "Tags": [
