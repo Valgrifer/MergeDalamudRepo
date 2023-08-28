@@ -18,12 +18,17 @@ const SETTINGS = { method: "Get" };
     const RepoListResult = (await Promise.all(Repolist.map(originRepository => fetch(originRepository, SETTINGS)
         .then(async res => {
             if (res.status === 200)
-                return JSON.parse(fixJSON(await res.text()))
+            {
+                let json = JSON.parse(fixJSON(await res.text()));
+                if(!Array.isArray(json))
+                    json = [json];
+                return json
                     .map(item => ({
                         ...item,
                         originRepository,
                         Description: (item.Description ? item.Description + '\n\n' : '') + "Plugin from " + originRepository
                     }));
+            }
             return [{
                 originRepository,
                 code: 404,
