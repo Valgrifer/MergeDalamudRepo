@@ -110,5 +110,5 @@ export default [
     "http://repo.modloader64.com/ffxiv/plugins.json",
     "https://raw.githubusercontent.com/chirpxiv/PalettePlus/main/repo.json",
     "https://raw.githubusercontent.com/etnAtker/BetterPartyFinder2/main/BetterPartyFinderE.json",
-    "https://raw.githubusercontent.com/maributt/auto-umbrellaplus/main/Auto-umbrellaPlus.json",
+    "https://raw.githubusercontent.com/maributt/xivplugins/main/repo.json",
 ];
