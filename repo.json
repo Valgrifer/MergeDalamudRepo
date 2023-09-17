@@ -184,7 +184,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1694363623",
+    "LastUpdated": "1694967890",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -674,7 +674,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
-    "DownloadCount": 23646,
+    "DownloadCount": 23815,
     "LastUpdate": "1681869097",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -857,7 +857,7 @@
     "Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.\n\nPlugin from https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
     "Punchline": "Customize your character beyond FFXIV's limitations.",
     "InternalName": "CustomizePlus",
-    "AssemblyVersion": "1.2.5.4",
+    "AssemblyVersion": "1.2.5.5",
     "TestingAssemblyVersion": "1.2.5.5",
     "RepoUrl": "https://github.com/XIV-Tools/CustomizePlus",
     "ApplicableVersion": "any",
@@ -868,10 +868,10 @@
     "LastUpdate": 0,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
-    "DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/download/test_1.2.5.5/CustomizePlus.zip",
+    "DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
     "DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
     "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
-    "Changelog": "Release 1.2.5.5 - Testing Gpose fix!",
+    "Changelog": "Release 1.2.5.5 - Gpose fix! Please report back if it works or not, and what works and what not! This MAY or MAY NOT fix Mare Gpose Issues.",
     "Tags": [
       "Sea Of Stars"
     ],
@@ -919,7 +919,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-    "DownloadCount": 7420,
+    "DownloadCount": 7482,
     "LastUpdate": "1680237651",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -940,7 +940,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DDD/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DDD/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1694363623",
+    "LastUpdated": "1694967890",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -989,7 +989,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1694363623",
+    "LastUpdated": "1694967890",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -1087,9 +1087,9 @@
     "Name": "FF Logs Viewer",
     "Punchline": "View FF Logs ranking percentiles in-game.",
     "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.\n\nPlugin from https://raw.githubusercontent.com/Aireil/MyDalamudPlugins/master/pluginmaster.json",
-    "Changelog": "- 2.1.4.3:\n   Add zone ASP when hovering over an ASP stat.\n   Fix an issue where old members would stay in group view even after a refresh.\n   Add a button to open the main window in the installer.\n- 2.1.4.2:\n   [Penumbra integration] Use interface collection instead of default.\n- 2.1.4.1:\n   Refresh party state when swapping to party view.\n   Add \"party\" or \"p\" argument to /fflogs to open the party view and refresh the party state.\n   Add default view setting.\n- 2.1.4.0:\n   Add cDPS metric, this new metric only works on new reports.\n",
+    "Changelog": "- 2.1.4.4:\n   Fix size issues in certain circumstances.\n- 2.1.4.3:\n   Add zone ASP when hovering over an ASP stat.\n   Fix an issue where old members would stay in group view even after a refresh.\n   Add a button to open the main window in the installer.",
     "InternalName": "FFLogsViewer",
-    "AssemblyVersion": "2.1.4.3",
+    "AssemblyVersion": "2.1.4.4",
     "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
     "ApplicableVersion": "any",
     "Tags": [
@@ -1098,7 +1098,8 @@
     "DalamudApiLevel": 8,
     "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
     "ImageUrls": [
-      "https://github.com/Aireil/FFLogsViewer/raw/master/res/banner.png"
+      "https://github.com/Aireil/FFLogsViewer/raw/master/res/image1.png",
+      "https://github.com/Aireil/FFLogsViewer/raw/master/res/image2.png"
     ],
     "DownloadLinkInstall": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
     "IsHide": false,
@@ -1106,7 +1107,7 @@
     "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1694026674",
+    "LastUpdate": "1694896079",
     "originRepository": "https://raw.githubusercontent.com/Aireil/MyDalamudPlugins/master/pluginmaster.json"
   },
   {
@@ -1201,7 +1202,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-    "DownloadCount": 687,
+    "DownloadCount": 689,
     "LastUpdate": "1680237651",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -1305,7 +1306,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "A lot of internal restructuring due to my new HaselCommon library, which is now used in all my plugins. I hope it works fine!\n\nGear Set Grid\n\n- Fixed: Closing the window didn't remove it from the WindowManager, making it difficult to reopen.",
-    "DownloadCount": 1279,
+    "DownloadCount": 1606,
     "LastUpdate": 1694624556,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.2.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.2.2/latest.zip",
@@ -1499,7 +1500,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/IINACT/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/IINACT/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1694363623",
+    "LastUpdated": "1694967890",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -1719,7 +1720,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "A lot of internal restructuring due to my new HaselCommon library, which is now used in all my plugins. I hope it works fine!\n\n- Changed: The configuration, previously a tab, has been moved to its own window and can be opened either via Dalamuds Plugin Installer or via `/lh config` in chat.\n- Added: The plugin language can now be changed in the configuration.",
-    "DownloadCount": 264,
+    "DownloadCount": 325,
     "LastUpdate": 1694623727,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.9/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.9/latest.zip",
@@ -1764,7 +1765,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Line/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Line/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1694363623",
+    "LastUpdated": "1694967890",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -1810,7 +1811,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1694363623",
+    "LastUpdated": "1694967890",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -2080,7 +2081,7 @@
     "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
     "AcceptsFeedback": true,
     "Changelog": "- Added: Hovering over an item icon in the rewards table will now show a preview for emotes, fashion accessories, hairstyles, minions, mounts, paintings, and Triple Triad cards. Otherwise, just a slightly larger icon.\n- Added: The Rewards column in the Duties table now shows the amount for wins, losses, and ties for PvP Duties.",
-    "DownloadCount": 230,
+    "DownloadCount": 247,
     "LastUpdate": 1693412682,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.0/latest.zip",
@@ -2329,7 +2330,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.13/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.13/latest.zip",
-    "DownloadCount": 32873,
+    "DownloadCount": 33116,
     "LastUpdate": "1686534786",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -2424,7 +2425,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
-    "DownloadCount": 5377,
+    "DownloadCount": 5428,
     "LastUpdate": "1685234965",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -2773,7 +2774,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
-    "DownloadCount": 15036,
+    "DownloadCount": 15132,
     "LastUpdate": "1685081081",
     "originRepository": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
   },
@@ -2870,9 +2871,9 @@
     "Author": "牙刷play",
     "Name": "SeeBoss",
     "Punchline": "A parsing plugin.",
-    "Description": "方便查看buffid和bossid\n\nPlugin from https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
+    "Description": "方便查看buffid和bossid和技能id\n\nPlugin from https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
     "InternalName": "SeeBoss",
-    "AssemblyVersion": "1.0.0.2",
+    "AssemblyVersion": "1.0.0.3",
     "RepoUrl": "",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -2883,7 +2884,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBoss/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBoss/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1694363623",
+    "LastUpdated": "1694967890",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -2904,7 +2905,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1694363623",
+    "LastUpdated": "1694967890",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -2934,7 +2935,7 @@
     "Punchline": "自定义快捷键后，鼠标移动到物品上快速roll点或放弃",
     "Description": "自定义快捷键后，鼠标移动到物品上快速roll点或放弃\n使用/SeletRollItem pai能排相关副本理符/SeletRollItem pai 随机任务：练级排练级本\n\nPlugin from https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
     "InternalName": "SeletRollItem",
-    "AssemblyVersion": "1.0.0.6",
+    "AssemblyVersion": "1.0.0.2",
     "RepoUrl": "",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -2946,7 +2947,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1694363623",
+    "LastUpdated": "1694967890",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -2956,16 +2957,16 @@
     "Description": "Adjust the position of your character model\n\nPlugin from https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
     "Punchline": "Adjust the position of your character model",
     "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-    "AssemblyVersion": "0.7.0.0",
+    "AssemblyVersion": "0.8.0.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1694593697",
-    "DownloadLinkInstall": "https://repo.caraxian.com/plugins/SimpleHeels/0.7.0.0.zip",
-    "DownloadLinkTesting": "https://repo.caraxian.com/plugins/SimpleHeels/0.7.0.0.zip",
-    "DownloadLinkUpdate": "https://repo.caraxian.com/plugins/SimpleHeels/0.7.0.0.zip",
+    "LastUpdate": "1694840181",
+    "DownloadLinkInstall": "https://repo.caraxian.com/plugins/SimpleHeels/0.8.0.0.zip",
+    "DownloadLinkTesting": "https://repo.caraxian.com/plugins/SimpleHeels/0.8.0.0.zip",
+    "DownloadLinkUpdate": "https://repo.caraxian.com/plugins/SimpleHeels/0.8.0.0.zip",
     "Tags": [
       "Sea Of Stars"
     ],
@@ -3190,7 +3191,7 @@
     "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
     "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1694814246",
+    "LastUpdated": "1694961547",
     "originRepository": "https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json"
   },
   {
@@ -3340,7 +3341,7 @@
     "Name": "WoLua",
     "Description": "Write custom chat commands by creating lua scripts\n\nPlugin from https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json",
     "InternalName": "WoLua",
-    "AssemblyVersion": "2.9.0",
+    "AssemblyVersion": "2.12.0",
     "RepoUrl": "https://github.com/PrincessRTFM/WoLua",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -3350,7 +3351,7 @@
     "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
     "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1694814246",
+    "LastUpdated": "1694961547",
     "originRepository": "https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json"
   },
   {
@@ -3446,7 +3447,7 @@
     "Name": "XIV Combo Very Expanded",
     "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.\n\nPlugin from https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json",
     "InternalName": "XIVComboVX",
-    "AssemblyVersion": "9.7.0",
+    "AssemblyVersion": "9.8.0",
     "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -3456,7 +3457,7 @@
     "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
     "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1694814246",
+    "LastUpdated": "1694961547",
     "originRepository": "https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json"
   },
   {
@@ -3474,7 +3475,7 @@
     "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
     "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1694814246",
+    "LastUpdated": "1694961547",
     "originRepository": "https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json"
   },
   {
@@ -3574,7 +3575,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1694363623",
+    "LastUpdated": "1694967890",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -3594,7 +3595,7 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [],
-    "LastUpdate": 1694815708,
+    "LastUpdate": 1694970459,
     "DownloadLinkInstall": "https://steam.valgrifer.fr/DalamudRepo/404.zip",
     "DownloadLinkUpdate": "https://steam.valgrifer.fr/DalamudRepo/404.zip",
     "Tags": [
