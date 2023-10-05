@@ -1,6 +1,6 @@
 const config = {
     /** @var {number} **/
-    DalamudApiLevel: 8,
+    DalamudApiLevel: 9,
     /** @var {string[]} **/
     BlackListPlugin: [
         "Splatoon",
