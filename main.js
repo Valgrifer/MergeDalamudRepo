@@ -91,10 +91,14 @@ const SETTINGS = { method: "Get" };
 
     finalList.push(info);
 
-    /**
-     * @type {RepoItem[]}
-     */
-    const oldJson = JSON.parse(readFileSync(Config.freezeFilePath, {encoding:'utf8', flag:'r'}));
+    /** @type {RepoItem[]} */
+    let oldJson;
+
+    try {
+        oldJson = JSON.parse(readFileSync(Config.freezeFilePath, {encoding:'utf8', flag:'r'}));
+    } catch (e) {
+        oldJson = [];
+    }
 
     const updated = finalList.filter(el => {
         if(el.InternalName === Config.defaultInfoPlugin.InternalName)
