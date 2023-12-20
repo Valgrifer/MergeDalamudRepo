@@ -3,7 +3,7 @@ const config = {
     DalamudApiLevel: 9,
     /** @var {string[]} **/
     BlackListPlugin: [
-        "Splatoon",
+        "Penumbra",
         "DSREyeLocator",
         "AbyssosToolbox",
         "Athavar.FFXIV.Plugin",
@@ -31,7 +31,7 @@ const defaultInfoPlugin = {
     AssemblyVersion: "0.0.0.1",
     Description: "",
     ApplicableVersion: "any",
-    RepoUrl: "https://steam.valgrifer.fr/DalamudRepo/",
+    RepoUrl: "https://github.com/Valgrifer/MergeDalamudRepo/tree/master",
     DalamudApiLevel: config.DalamudApiLevel,
     LoadPriority: 0,
     Punchline: "Information sur ce script",
