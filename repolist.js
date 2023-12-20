@@ -1,5 +1,4 @@
 export default [
-    "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json",
     "https://raw.githubusercontent.com/yomishino/MyDalamudPlugins/main/plugins.json",
     "https://raw.githubusercontent.com/Aida-Enna/XIVPlugins/main/repo.json",
     "https://gist.githubusercontent.com/CaiClone/0aad66569dbf63a9bbeec6a8e95a123f/raw/pluginmaster.json",
@@ -38,7 +37,6 @@ export default [
     "https://raw.githubusercontent.com/Nik-Potokar/MyDalamudPlugins/main/pluginmaster.json",
     "https://raw.githubusercontent.com/OpaqueReptile/daemitus_MyDalamudPlugins/master/pluginmaster.json",
     "https://raw.githubusercontent.com/Ottermandias/AutoVisor/master/repo.json",
-    "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json",
     "https://raw.githubusercontent.com/Phenrei/DalamudPlugins/main/repo.json",
     "https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json",
     "https://raw.githubusercontent.com/PsychicNoodles/DalamudPluginRepo/master/pluginmaster.json",
