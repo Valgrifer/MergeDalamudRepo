@@ -109,7 +109,7 @@ const SETTINGS = { method: "Get" };
         if(find === undefined)
             return true;
 
-        return compareVersions(el.AssemblyVersion, find.AssemblyVersion) !== el.AssemblyVersion;
+        return compareVersions(el.AssemblyVersion, find.AssemblyVersion) !== find.AssemblyVersion;
     });
 
     if(updated.length === 0)

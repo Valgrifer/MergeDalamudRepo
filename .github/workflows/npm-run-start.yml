@@ -1,8 +1,8 @@
 name: Auto-Updater
 
 on:
-#  schedule:
-#    - cron: "0 * * * *"
+  schedule:
+    - cron: "0 * * * *"
   workflow_dispatch:  # Ajout de la possibilité de déclenchement manuel
 
 jobs:
