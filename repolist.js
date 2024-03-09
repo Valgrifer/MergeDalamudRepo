@@ -60,7 +60,6 @@ export default [
     "https://raw.githubusercontent.com/ars-magna/MyDalamudPlugins/master/plugins/pluginmaster.json",
     "https://raw.githubusercontent.com/awgil/ffxiv_plugin_distribution/master/pluginmaster.json",
     "https://raw.githubusercontent.com/captainbinary/MyDalamudPlugins/master/pluginmaster.json",
-    "https://raw.githubusercontent.com/cecilia-sanare/DalamudPlugins/main/pluginmaster.json",
     "https://raw.githubusercontent.com/cecilia-sanare/Puppets/main/repo.json",
     "https://raw.githubusercontent.com/chalkos/Marketbuddy/main/repo.json",
     "https://raw.githubusercontent.com/daemitus/MyDalamudPlugins/master/pluginmaster.json",
