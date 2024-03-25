@@ -97,7 +97,7 @@ export default [
     "https://raw.githubusercontent.com/vamdoza/Dalamud-Repo/main/repo.json",
     "https://raw.githubusercontent.com/weizhen199/MakePlacePlugin/master/MakePlacePlugin.json",
     // "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/main/pluginmaster.json",
-    "https://raw.githubusercontent.com/xSunshine06/ffxiv_materialui_accent/master/repo.json",
+    "https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/master/repo.json",
     "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/pluginmaster.json",
     // "https://raw.githubusercontent.com/ykoneee/CraftingList/main/CraftingList/repo.json",
     "https://raw.githubusercontent.com/yschuurmans/MyDalamudPlugins/master/pluginmaster.json",
