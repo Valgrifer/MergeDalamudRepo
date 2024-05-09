@@ -109,4 +109,5 @@ export default [
     "https://raw.githubusercontent.com/etnAtker/BetterPartyFinder2/main/BetterPartyFinderE.json",
     "https://raw.githubusercontent.com/maributt/xivplugins/main/repo.json",
     "https://raw.githubusercontent.com/KangasZ/DalamudPluginRepository/main/plugin_repository.json",
+    "https://raw.githubusercontent.com/Ottermandias/GatherBuddy/Refactor/repo.json",
 ];
