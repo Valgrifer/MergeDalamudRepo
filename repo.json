@@ -84,7 +84,7 @@
     ],
     "InternalName": "Artisan",
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
-    "DownloadCount": 1141484,
+    "DownloadCount": 1141864,
     "LastUpdate": 1719944886117,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -135,7 +135,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1717753878",
+    "LastUpdated": "1719982947",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -149,7 +149,7 @@
     ],
     "InternalName": "AutoHook",
     "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-    "DownloadCount": 129711,
+    "DownloadCount": 129725,
     "LastUpdate": 1718937848718,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
@@ -220,7 +220,7 @@
     "Tags": [],
     "InternalName": "AutoRetainer",
     "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-    "DownloadCount": 410467,
+    "DownloadCount": 411607,
     "LastUpdate": 1719975309273,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -299,7 +299,7 @@
     ],
     "InternalName": "Avarice",
     "RepoUrl": "https://github.com/PunishXIV/Avarice",
-    "DownloadCount": 50343,
+    "DownloadCount": 50346,
     "LastUpdate": 1699389412236,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
@@ -714,7 +714,7 @@
     "Name": "DDD",
     "Description": "发送数据到inact\n\nPlugin from https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
     "InternalName": "DDD",
-    "AssemblyVersion": "1.0.1.2",
+    "AssemblyVersion": "1.0.1.3",
     "RepoUrl": "",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
@@ -726,7 +726,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DDD/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DDD/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1717753878",
+    "LastUpdated": "1719982947",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -1085,7 +1085,7 @@
     "Punchline": "A parsing plugin.",
     "Description": "能在replay里面使用的和使用edgetts的加强版\n\nPlugin from https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
     "InternalName": "IINACT",
-    "AssemblyVersion": "2.1.4.4",
+    "AssemblyVersion": "2.1.4.6",
     "RepoUrl": "https://github.com/tssailzz8/IINACT",
     "ApplicableVersion": "any",
     "Tags": [
@@ -1101,7 +1101,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/IINACT/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/IINACT/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1717753878",
+    "LastUpdated": "1719982947",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -1333,7 +1333,7 @@
     "Name": "LiFu",
     "Description": "礼服\n\nPlugin from https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
     "InternalName": "LiFu",
-    "AssemblyVersion": "1.0.0.8",
+    "AssemblyVersion": "1.0.0.9",
     "RepoUrl": "",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
@@ -1345,7 +1345,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/LiFu/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/LiFu/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1717753878",
+    "LastUpdated": "1719982947",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -1366,7 +1366,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Line/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Line/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1717753878",
+    "LastUpdated": "1719982947",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -1408,7 +1408,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1717753878",
+    "LastUpdated": "1719982947",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -1903,7 +1903,7 @@
     "Tags": [],
     "InternalName": "Orbwalker",
     "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-    "DownloadCount": 14970,
+    "DownloadCount": 14971,
     "LastUpdate": 1696968937655,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
@@ -2211,7 +2211,7 @@
     ],
     "InternalName": "Saucy",
     "RepoUrl": "https://github.com/PunishXIV/Saucy",
-    "DownloadCount": 130989,
+    "DownloadCount": 130995,
     "LastUpdate": 1717393333290,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
@@ -2241,7 +2241,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBoss/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBoss/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1717753878",
+    "LastUpdated": "1719982947",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -2262,7 +2262,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1717753878",
+    "LastUpdated": "1719982947",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -2304,7 +2304,7 @@
     "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
     "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
     "DownloadCount": 0,
-    "LastUpdated": "1717753878",
+    "LastUpdated": "1719982947",
     "originRepository": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json"
   },
   {
@@ -2378,7 +2378,7 @@
     ],
     "InternalName": "Splatoon",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-    "DownloadCount": 238530,
+    "DownloadCount": 238880,
     "LastUpdate": 1719958165128,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -2744,7 +2744,7 @@
     "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!\n\nPlugin from https://raw.githubusercontent.com/Grammernatzi/MyDalamudPlugins/master/pluginmaster.json",
     "Changelog": "1.5.0.11:\r\n    * Blizzard 1/3 Feature now works properly.\r\n    * High Fire 2 to Flare feature rewritten now that Enhanced Flare is gone and (High) Fire 2 is no longer used after switching to Astral Fire if you have Flare.\r\n    * Lance Charge to Dragon Sight removed because Dragon Sight no longer exists.\r\n    \r\n    1.5.0.8:\r\n    * Flare to Despair now works via reverse-AoE action detection, like Xenoglossy to Foul.\r\n    * High Thunder to High Thunder 2 added.\r\n    * Disclaimer added to (Between the) Ley Lines.\r\n    * Despair to Transpose removed.\r\n    \r\n    1.5.0.3:\r\n    * Initial Viper features added. More will be added later when there is further access to Job Gauge variables via Client Structs.\r\n    \r\n    1.5.0.1:\r\n    * Initial Pictomancer features added.\r\n    \r\n    1.5.0.0:\r\n    * Wayyy too much. Please check the commits on the github, I left changelogs for each job there.",
     "InternalName": "XIVComboExpandedest",
-    "AssemblyVersion": "1.5.0.11",
+    "AssemblyVersion": "1.5.0.15",
     "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
@@ -2757,7 +2757,7 @@
     "DownloadLinkTesting": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
     "DownloadLinkUpdate": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1719914577",
+    "LastUpdate": "1719982804",
     "originRepository": "https://raw.githubusercontent.com/Grammernatzi/MyDalamudPlugins/master/pluginmaster.json"
   },
   {
@@ -2858,7 +2858,7 @@
     "Tags": [],
     "InternalName": "YesAlready",
     "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-    "DownloadCount": 179415,
+    "DownloadCount": 179491,
     "LastUpdate": 1719837849471,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -2911,7 +2911,7 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [],
-    "LastUpdate": 1719976335,
+    "LastUpdate": 1719983443,
     "DownloadLinkInstall": "https://steam.valgrifer.fr/DalamudRepo/404.zip",
     "DownloadLinkUpdate": "https://steam.valgrifer.fr/DalamudRepo/404.zip",
     "Tags": [
