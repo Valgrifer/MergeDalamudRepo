@@ -1,6 +1,6 @@
 const config = {
     /** @var {number} **/
-    DalamudApiLevel: 9,
+    DalamudApiLevel: 10,
     /** @var {string[]} **/
     BlackListPlugin: [
         "Penumbra",
