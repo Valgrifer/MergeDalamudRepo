@@ -4,10 +4,8 @@ const config = {
     /** @var {string[]} **/
     BlackListPlugin: [
         "Penumbra",
-        "DSREyeLocator",
         "AbyssosToolbox",
         "Athavar.FFXIV.Plugin",
-        "BossMod",
     ],
     /** @var {string} **/
     freezeFilePath: "repo.json",
