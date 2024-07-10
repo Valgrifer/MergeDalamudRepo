@@ -8,6 +8,7 @@ import axios from "axios";
  * @property {undefined|string} Description
  * @property {undefined|string} InternalName
  * @property {undefined|string} AssemblyVersion
+ * @property {undefined|string} TestingAssemblyVersion
  * @property {undefined|string} RepoUrl
  * @property {undefined|number} DalamudApiLevel
  * @property {undefined|string[]} Tags
@@ -53,6 +54,9 @@ export function findUrlLine(url)
  * @generatedBy ChatGPT
  */
 export function compareVersions(version1, version2) {
+    if (version1 === undefined || version2 === undefined) {
+        return version2 || version1;
+    }
     const parts1 = version1.split('.').map(Number);
     const parts2 = version2.split('.').map(Number);
 
@@ -68,6 +72,15 @@ export function compareVersions(version1, version2) {
     }
 
     return version1; // Les versions sont identiques.
+}
+
+/**
+ * @param {RepoItem} v1
+ * @param {RepoItem} v2
+ * @return {boolean}
+ */
+export function pluginIsUpdate(v1, v2) {
+
 }
 
 

@@ -1,12 +1,11 @@
 // noinspection JSCheckFunctionSignatures
-
 import Repolist from "./repolist.js";
 import Config from "./config.js";
 import fetch from "node-fetch";
 import {readFileSync, writeFileSync} from "fs";
-import {fixJSON, findUrlLine, compareVersions, commitAndPush, sendMessage} from "./utils.js";
+import {fixJSON, findUrlLine, compareVersions, commitAndPush, sendMessage, pluginIsUpdate} from "./utils.js";
 
-const SETTINGS = { method: "Get" };
+const SETTINGS = {method: "Get"};
 
 (async () => {
     /** @type {RepoItem[]} */
@@ -17,10 +16,9 @@ const SETTINGS = { method: "Get" };
     /** @type {RepoItem[]} */
     const RepoListResult = (await Promise.all(Repolist.map(originRepository => fetch(originRepository, SETTINGS)
         .then(async res => {
-            if (res.status === 200)
-            {
+            if (res.status === 200) {
                 let json = JSON.parse(fixJSON(await res.text()));
-                if(!Array.isArray(json))
+                if (!Array.isArray(json))
                     json = [json];
                 return json
                     .map(item => ({
@@ -36,34 +34,31 @@ const SETTINGS = { method: "Get" };
             }];
         })
         .catch(err => ([
-                {
-                    originRepository,
-                    code: 500,
-                    error: "Une erreur c'est produit",
-                    err
-                }])))))
+            {
+                originRepository,
+                code: 500,
+                error: "Une erreur c'est produit",
+                err
+            }])))))
         .reduce((el1, el2) => {
-            if(!el1)
+            if (!el1)
                 return el2;
             el2.forEach(el => el1.push(el))
             return el1;
         });
-
-    RepoListResult.filter(item =>
-            item.error || !item.Disabled && !Config.BlackListPlugin.includes(item.InternalName) && item.DalamudApiLevel && item.DalamudApiLevel >= Config.DalamudApiLevel
-        ).forEach(item => {
-            if(item.error)
-            {
+    RepoListResult
+        .filter(item =>
+            item.error || !item.Disabled && !Config.BlackListPlugin.includes(item.InternalName) && item.DalamudApiLevel && item.DalamudApiLevel >= Config.DalamudApiLevel)
+        .forEach(item => {
+            if (item.error) {
                 errorList.push(item);
                 return;
             }
             let same;
-            if((same = finalList.find(el => el.InternalName === item.InternalName)))
-            {
-                if(item.AssemblyVersion !== same.AssemblyVersion && compareVersions(item.AssemblyVersion, same.AssemblyVersion) === item.AssemblyVersion)
-                {
-                    Object.keys(same).forEach(key => delete same[key])
-                    Object.keys(item).forEach(key => same[key] = item[key])
+            if ((same = finalList.find(el => el.InternalName === item.InternalName))) {
+                if (compareVersions(item.AssemblyVersion, same.AssemblyVersion) === item.AssemblyVersion || compareVersions(item.TestingAssemblyVersion, same.TestingAssemblyVersion) === item.TestingAssemblyVersion) {
+                    Object.keys(same).forEach(key => delete same[key]);
+                    Object.keys(item).forEach(key => same[key] = item[key]);
                 }
                 return;
             }
@@ -95,25 +90,29 @@ const SETTINGS = { method: "Get" };
     let oldJson;
 
     try {
-        oldJson = JSON.parse(readFileSync(Config.freezeFilePath, {encoding:'utf8', flag:'r'}));
+        oldJson = JSON.parse(readFileSync(Config.freezeFilePath, {encoding: 'utf8', flag: 'r'}));
     } catch (e) {
         oldJson = [];
     }
 
-    const updated = finalList.filter(el => {
-        if(el.InternalName === Config.defaultInfoPlugin.InternalName)
+    const updated = finalList
+        .map(el => {
+        if (el.InternalName === Config.defaultInfoPlugin.InternalName)
             return false;
 
         let find = oldJson.find(e => e.InternalName === el.InternalName);
 
-        if(find === undefined)
-            return true;
+        if (find === undefined)
+            return el;
 
-        return compareVersions(el.AssemblyVersion, find.AssemblyVersion) !== find.AssemblyVersion;
-    });
+        if (pluginIsUpdate(el, find))
+            return el;
 
-    if(updated.length === 0)
-    {
+        return false;
+    })
+        .filter(el => el);
+
+    if (updated.length === 0) {
         console.log("No Update Found!!");
         return;
     }
@@ -121,8 +120,8 @@ const SETTINGS = { method: "Get" };
 
     writeFileSync(Config.freezeFilePath, JSON.stringify(finalList, null, 2));
 
-    if(Config.autoCommitPush) {
-        if(Config.sendWebHook)
+    if (Config.autoCommitPush) {
+        if (Config.sendWebHook)
             await Promise.all(updated.map(sendMessage));
 
         commitAndPush(Config.freezeFilePath, Config.commitMessage, Config.commitBranch);
