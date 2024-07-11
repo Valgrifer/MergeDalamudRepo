@@ -95,7 +95,6 @@ export default [
     "https://puni.sh/api/repository/herc",
     "https://puni.sh/api/repository/veyn",
     "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
-    "https://raw.githubusercontent.com/ArchiDog1998/DalamudPlugins/main/pluginmaster.json",
     "https://github.com/plottingCreeper/MyDalamudPlugins/raw/master/pluginmaster.json",
     "https://puni.sh/api/repository/jukka",
 ];
