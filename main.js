@@ -56,7 +56,7 @@ const SETTINGS = {method: "Get"};
             }
             let same;
             if ((same = finalList.find(el => el.InternalName === item.InternalName))) {
-                if (compareVersions(item.AssemblyVersion, same.AssemblyVersion) === item.AssemblyVersion || compareVersions(item.TestingAssemblyVersion, same.TestingAssemblyVersion) === item.TestingAssemblyVersion) {
+                if (pluginIsUpdate(item, same)) {
                     Object.keys(same).forEach(key => delete same[key]);
                     Object.keys(item).forEach(key => same[key] = item[key]);
                 }

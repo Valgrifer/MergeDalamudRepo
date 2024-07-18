@@ -50,12 +50,15 @@ export function findUrlLine(url)
  * Compare deux versions et renvoie la plus haute.
  * @param {string} version1 - La première version à comparer.
  * @param {string} version2 - La deuxième version à comparer.
- * @returns {string} La version la plus haute.
+ * @returns {boolean} La version la plus haute.
  * @generatedBy ChatGPT
  */
 export function compareVersions(version1, version2) {
-    if (version1 === undefined || version2 === undefined) {
-        return version2 || version1;
+    if (!version1) {
+        return false;
+    }
+    if (!version2) {
+        return true;
     }
     const parts1 = version1.split('.').map(Number);
     const parts2 = version2.split('.').map(Number);
@@ -65,22 +68,31 @@ export function compareVersions(version1, version2) {
         const part2 = parts2[i] || 0;
 
         if (part1 > part2) {
-            return version1;
+            return true;
         } else if (part1 < part2) {
-            return version2;
+            return false;
         }
     }
 
-    return version1; // Les versions sont identiques.
+    return false; // Les versions sont identiques.
 }
 
 /**
- * @param {RepoItem} v1
- * @param {RepoItem} v2
+ * @param {RepoItem} newVersion
+ * @param {RepoItem} oldVersion
  * @return {boolean}
  */
-export function pluginIsUpdate(v1, v2) {
+export function pluginIsUpdate(newVersion, oldVersion) {
+    if (compareVersions(newVersion.AssemblyVersion, oldVersion.AssemblyVersion))
+        return true;
 
+    if (newVersion.TestingAssemblyVersion && newVersion.TestingAssemblyVersion !== oldVersion.TestingAssemblyVersion)
+        return true;
+
+    if (compareVersions(newVersion.TestingAssemblyVersion, oldVersion.TestingAssemblyVersion))
+        return true;
+
+    return false;
 }
 
 
