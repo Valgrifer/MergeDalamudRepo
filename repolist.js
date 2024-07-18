@@ -52,7 +52,6 @@ export default [
     "https://raw.githubusercontent.com/cecilia-sanare/Puppets/main/repo.json",
     "https://raw.githubusercontent.com/chalkos/Marketbuddy/main/repo.json",
     "https://raw.githubusercontent.com/daemitus/MyDalamudPlugins/master/pluginmaster.json",
-    "https://raw.githubusercontent.com/dodingdaga/DalamudPlugins/main/MidiBard.json",
     "https://raw.githubusercontent.com/dodingdaga/DalamudPlugins/main/PuppetMaster.json",
     "https://raw.githubusercontent.com/f0in/DalamudPluginRepo/master/pluginmaster.json",
     "https://raw.githubusercontent.com/ffxivita/XIVITADalamudPlugins/main/dist/pluginmaster.json",
