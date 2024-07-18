@@ -12,7 +12,7 @@ const config = {
     /** @var {boolean} **/
     sendWebHook: true,
     /** @var {boolean} **/
-    autoCommitPush: false,
+    autoCommitPush: true,
     /** @var {string} **/
     commitMessage: "Repo Auto-Update",
     /** @var {string} **/
