@@ -91,6 +91,7 @@ export default [
     "https://raw.githubusercontent.com/etnAtker/BetterPartyFinder2/main/BetterPartyFinderE.json",
     "https://raw.githubusercontent.com/maributt/xivplugins/main/repo.json",
     "https://raw.githubusercontent.com/KangasZ/DalamudPluginRepository/main/plugin_repository.json",
+    "https://raw.githubusercontent.com/ArchiDog1998/DalamudPlugins/main/pluginmaster.json",
     "https://puni.sh/api/repository/herc",
     "https://puni.sh/api/repository/veyn",
     "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
