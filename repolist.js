@@ -97,4 +97,5 @@ export default [
     "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
     "https://github.com/plottingCreeper/MyDalamudPlugins/raw/master/pluginmaster.json",
     "https://puni.sh/api/repository/jukka",
+    "https://aetherment.sevii.dev/plugin",
 ];
