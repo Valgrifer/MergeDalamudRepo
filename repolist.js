@@ -11,7 +11,6 @@ export default [
     "https://raw.githubusercontent.com/Athavar/Athavar.FFXIV.DalaRepo/master/pluginmaster.json",
     "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/pluginmaster.json",
     "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/master/pluginmaster.json",
-    "https://raw.githubusercontent.com/Bluefissure/MultiHit/master/repo.json",
     "https://raw.githubusercontent.com/Cloa/resonant/main/repo/latest.json",
     "https://raw.githubusercontent.com/EtheirysIO/repo/master/pluginmaster.json",
     "https://raw.githubusercontent.com/Frogworks-Interactive/PluginRepository/main/repo.json",
