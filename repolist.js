@@ -72,7 +72,7 @@ export default [
     "https://raw.githubusercontent.com/oorzkws/DalamudPlugins/master/pluginmaster.json",
     "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/repo.json",
     "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/pluginmaster.json",
-    "https://raw.githubusercontent.com/redeven/BetterTargetPlugin/master/repository.json",
+    "https://raw.githubusercontent.com/redeven/DalamudPluginRepo/refs/heads/master/repository.json",
     "https://raw.githubusercontent.com/saltycog/DalamudPlugins/master/repo.json",
     "https://raw.githubusercontent.com/serifine/XIV-Chat-Scanner/main/repo.json",
     "https://raw.githubusercontent.com/thesuccubus/repo/main/pluginmaster.json",

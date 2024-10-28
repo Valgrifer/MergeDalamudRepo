@@ -57,8 +57,10 @@ const SETTINGS = {method: "Get"};
             let same;
             if ((same = finalList.find(el => el.InternalName === item.InternalName))) {
                 if (pluginIsUpdate(item, same)) {
+                    if (item.InternalName === "CustomizePlus") console.log("yes", same);
                     Object.keys(same).forEach(key => delete same[key]);
                     Object.keys(item).forEach(key => same[key] = item[key]);
+                    if (item.InternalName === "CustomizePlus") console.log(same);
                 }
                 return;
             }

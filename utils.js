@@ -86,10 +86,8 @@ export function pluginIsUpdate(newVersion, oldVersion) {
         return true;
 
     if (newVersion.TestingAssemblyVersion && newVersion.TestingAssemblyVersion !== oldVersion.TestingAssemblyVersion)
-        return true;
-
-    if (compareVersions(newVersion.TestingAssemblyVersion, oldVersion.TestingAssemblyVersion))
-        return true;
+        if (compareVersions(newVersion.TestingAssemblyVersion, oldVersion.TestingAssemblyVersion))
+            return true;
 
     return false;
 }
