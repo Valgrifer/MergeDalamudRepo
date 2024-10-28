@@ -30,6 +30,7 @@ export function fixJSON(jsonString) {
     return jsonString.replace(regex, (match, group1) => group1);
 }
 
+const fileContentLine = readFileSync('repolist.js', {encoding:'utf8', flag:'r'}).split('\r\n');
 /**
  * Search Url of repository in 'repolist.js'
  * @param {string} url
@@ -37,8 +38,6 @@ export function fixJSON(jsonString) {
  */
 export function findUrlLine(url)
 {
-    const fileContentLine = readFileSync('repolist.js', {encoding:'utf8', flag:'r'}).split('\r\n');
-
     for(let i in fileContentLine)
         if(fileContentLine[i].indexOf(url) >= 0)
             return parseInt(i)+1;
