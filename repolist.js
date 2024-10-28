@@ -3,6 +3,7 @@ export default [
     "https://raw.githubusercontent.com/yomishino/MyDalamudPlugins/main/plugins.json",
     "https://raw.githubusercontent.com/Aida-Enna/XIVPlugins/main/repo.json",
     "https://gist.githubusercontent.com/CaiClone/0aad66569dbf63a9bbeec6a8e95a123f/raw/pluginmaster.json",
+    "https://raw.githubusercontent.com/Aether-Tools/DalamudPlugins/main/repo.json",
     "https://love.puni.sh/ment.json",
     "https://raw.githubusercontent.com/Aireil/MyDalamudPlugins/master/pluginmaster.json",
     "https://raw.githubusercontent.com/Akurosia/DalamudPlugins/master/pluginmaster.json",
