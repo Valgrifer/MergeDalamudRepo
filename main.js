@@ -3,7 +3,7 @@ import Repolist from "./repolist.js";
 import Config from "./config.js";
 import fetch from "node-fetch";
 import {readFileSync, writeFileSync} from "fs";
-import {fixJSON, findUrlLine, compareVersions, commitAndPush, sendMessage, pluginIsUpdate} from "./utils.js";
+import {fixJSON, findUrlLine, commitAndPush, sendMessage, pluginIsUpdate} from "./utils.js";
 
 const SETTINGS = {method: "Get"};
 
