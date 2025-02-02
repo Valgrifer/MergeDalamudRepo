@@ -99,5 +99,5 @@ export default [
     "https://raw.githubusercontent.com/TomestoneGG/Dalamud.Tomestone/refs/heads/master/repo.json",
     "https://raw.githubusercontent.com/ryonive/Dalamud-Darkness-Repo/main/ffxiv_custom_repo.json",
     "https://raw.githubusercontent.com/FoxShadow10/AutoEmotion/main/repo.json",
-    "https://raw.githubusercontent.com/Loskh/ActionTimelineReplacement/refs/heads/main/repo.json",
+    "https://raw.githubusercontent.com/papapachin/ActionTimelineReplacement/api11/repo.json",
 ];
