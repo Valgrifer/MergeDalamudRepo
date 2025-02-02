@@ -96,4 +96,7 @@ export default [
     "https://github.com/plottingCreeper/MyDalamudPlugins/raw/master/pluginmaster.json",
     "https://puni.sh/api/repository/jukka",
     "https://aetherment.sevii.dev/plugin",
+    "https://raw.githubusercontent.com/TomestoneGG/Dalamud.Tomestone/refs/heads/master/repo.json",
+    "https://raw.githubusercontent.com/ryonive/Dalamud-Darkness-Repo/main/ffxiv_custom_repo.json",
+    "https://raw.githubusercontent.com/FoxShadow10/AutoEmotion/main/repo.json",
 ];
