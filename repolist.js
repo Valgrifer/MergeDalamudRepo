@@ -100,4 +100,5 @@ export default [
     "https://raw.githubusercontent.com/ryonive/Dalamud-Darkness-Repo/main/ffxiv_custom_repo.json",
     "https://raw.githubusercontent.com/FoxShadow10/AutoEmotion/main/repo.json",
     "https://raw.githubusercontent.com/papapachin/ActionTimelineReplacement/api11/repo.json",
+    "https://raw.githubusercontent.com/marzent/IINACT/main/repo.json",
 ];
