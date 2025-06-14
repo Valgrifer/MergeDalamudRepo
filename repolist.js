@@ -98,4 +98,5 @@ export default [
     "https://raw.githubusercontent.com/papapachin/ActionTimelineReplacement/api11/repo.json",
     "https://raw.githubusercontent.com/marzent/IINACT/main/repo.json",
     "https://puni.sh/api/repository/ice",
+    "https://puni.sh/api/repository/croizat",
 ];
