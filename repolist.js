@@ -99,4 +99,5 @@ export default [
     "https://raw.githubusercontent.com/marzent/IINACT/main/repo.json",
     "https://puni.sh/api/repository/ice",
     "https://puni.sh/api/repository/croizat",
+    "https://raw.githubusercontent.com/OhKannaDuh/plugins/refs/heads/master/manifest.json",
 ];
