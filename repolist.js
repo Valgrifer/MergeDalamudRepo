@@ -101,5 +101,5 @@ export default [
     "https://puni.sh/api/repository/ice",
     "https://puni.sh/api/repository/croizat",
     "https://raw.githubusercontent.com/OhKannaDuh/plugins/refs/heads/master/manifest.json",
-    "https://github.com/Sevii77/animation_syncer/blob/master/repo.json",
+    "https://raw.githubusercontent.com/Sevii77/animation_syncer/refs/heads/master/repo.json",
 ];
