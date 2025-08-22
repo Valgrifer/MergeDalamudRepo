@@ -1,5 +1,5 @@
 export default [
-    "https://raw.githubusercontent.com/Penumbra-Sync/repo/main/plogonmaster.json",
+    "https://raw.githubusercontent.com/Lommella/SizeSync/refs/heads/master/repo.json",
     "https://raw.githubusercontent.com/yomishino/MyDalamudPlugins/main/plugins.json",
     "https://raw.githubusercontent.com/Aida-Enna/XIVPlugins/main/repo.json",
     "https://gist.githubusercontent.com/CaiClone/0aad66569dbf63a9bbeec6a8e95a123f/raw/pluginmaster.json",
