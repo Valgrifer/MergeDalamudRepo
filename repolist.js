@@ -101,4 +101,5 @@ export default [
     "https://puni.sh/api/repository/croizat",
     "https://raw.githubusercontent.com/OhKannaDuh/plugins/refs/heads/master/manifest.json",
     "https://raw.githubusercontent.com/Sevii77/animation_syncer/refs/heads/master/repo.json",
+    "https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/refs/heads/main/repo.json",
 ];
