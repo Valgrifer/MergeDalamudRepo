@@ -103,4 +103,5 @@ export default [
     "https://raw.githubusercontent.com/OhKannaDuh/plugins/refs/heads/master/manifest.json",
     "https://raw.githubusercontent.com/Sevii77/animation_syncer/refs/heads/master/repo.json",
     "https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/refs/heads/main/repo.json",
+    "https://raw.githubusercontent.com/WesleyLuk90/ffxiv-vr/refs/heads/master/PluginRepo/pluginmaster.json",
 ];
