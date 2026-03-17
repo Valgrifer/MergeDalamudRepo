@@ -105,4 +105,5 @@ export default [
     "https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/refs/heads/main/repo.json",
     "https://raw.githubusercontent.com/WesleyLuk90/ffxiv-vr/refs/heads/master/PluginRepo/pluginmaster.json",
     "https://puni.sh/api/repository/sourpuh",
+    "https://repo.lightless-sync.org/",
 ];
