@@ -26,7 +26,7 @@
     "AssemblyVersion": "7.5.0.4",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.5.0.4/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Making the READMEs look the samesies. by @Nonunon in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/16\r\n\r\n## New Contributors\r\n* @Nonunon made their first contribution in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/16\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.5.0.3...7.5.0.4",
-    "DownloadCount": 30782,
+    "DownloadCount": 30788,
     "originRepository": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
   },
   {
@@ -57,7 +57,7 @@
     "Author": "Sevii",
     "DalamudApiLevel": 15,
     "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files\n\nPlugin from https://aetherment.sevii.dev/plugin",
-    "DownloadCount": 244564,
+    "DownloadCount": 244575,
     "DownloadLinkInstall": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkTesting": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkUpdate": "https://aetherment.sevii.dev/plugin/update",
@@ -162,7 +162,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "",
-    "IconUrl": "https://s3.puni.sh/media/plugin/80/icon-u0a94p5z87.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/80",
     "originRepository": "https://puni.sh/api/repository/vera"
   },
   {
@@ -175,7 +175,7 @@
     ],
     "InternalName": "Artisan",
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
-    "DownloadCount": 5263303,
+    "DownloadCount": 5263475,
     "LastUpdate": 1779534978,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.10/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.10/update/latest.zip",
@@ -186,7 +186,7 @@
     "TestingAssemblyVersion": "4.0.5.8",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.8/install/testing.zip",
     "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/6",
     "originRepository": "https://love.puni.sh/ment.json"
   },
   {
@@ -197,7 +197,7 @@
     "Tags": [],
     "InternalName": "AutoDuty",
     "RepoUrl": "https://github.com/erdelf/AutoDuty",
-    "DownloadCount": 1597807,
+    "DownloadCount": 1598041,
     "LastUpdate": 1780041914,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.313/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.313/update/latest.zip",
@@ -208,7 +208,7 @@
     "TestingAssemblyVersion": "0.0.0.314",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.314/install/testing.zip",
     "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/54",
     "ImageUrls": [
       "https://s3.puni.sh/media/plugin/54/image-15l1o9gf3yg.png",
       "https://s3.puni.sh/media/plugin/54/image-gc84lu4pdpb.png",
@@ -229,7 +229,7 @@
     ],
     "InternalName": "AutoHook",
     "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-    "DownloadCount": 1420526,
+    "DownloadCount": 1420550,
     "LastUpdate": 1777623197,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.51/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.51/update/latest.zip",
@@ -237,7 +237,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "",
-    "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/47",
     "originRepository": "https://love.puni.sh/ment.json"
   },
   {
@@ -304,7 +304,7 @@
     ],
     "InternalName": "Automaton",
     "RepoUrl": "https://github.com/Jaksuhn/Automaton",
-    "DownloadCount": 677740,
+    "DownloadCount": 677790,
     "LastUpdate": 1779781291,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.183.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.183.0.0/update/latest.zip",
@@ -312,7 +312,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "",
-    "IconUrl": "https://s3.puni.sh/media/plugin/34/icon-z405dwrdjem.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/34",
     "originRepository": "https://puni.sh/api/repository/croizat"
   },
   {
@@ -349,7 +349,7 @@
     "Tags": [],
     "InternalName": "AutoRetainer",
     "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-    "DownloadCount": 2098539,
+    "DownloadCount": 2099245,
     "LastUpdate": 1780105635,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.2/update/latest.zip",
@@ -360,7 +360,7 @@
     "TestingAssemblyVersion": "4.6.1.1",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.1/install/testing.zip",
     "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/24",
     "originRepository": "https://love.puni.sh/ment.json"
   },
   {
@@ -402,7 +402,7 @@
     ],
     "InternalName": "Avarice",
     "RepoUrl": "https://github.com/PunishXIV/Avarice",
-    "DownloadCount": 310954,
+    "DownloadCount": 310970,
     "LastUpdate": 1777497479,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.6/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.6/update/latest.zip",
@@ -413,7 +413,7 @@
     "TestingAssemblyVersion": "2.2.0.5",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.5/install/testing.zip",
     "TestingDalamudApiLevel": "14",
-    "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/11",
     "originRepository": "https://love.puni.sh/ment.json"
   },
   {
@@ -630,7 +630,7 @@
     "Tags": [],
     "InternalName": "BossMod",
     "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-    "DownloadCount": 2061141,
+    "DownloadCount": 2061302,
     "LastUpdate": 1779988179,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.0.18/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.0.18/update/latest.zip",
@@ -641,7 +641,7 @@
     "TestingAssemblyVersion": "7.5.0.21",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.0.21/install/testing.zip",
     "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/30",
     "ImageUrls": [
       "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
       "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
@@ -675,13 +675,13 @@
     "Punchline": "Don't fail at raid mechanics anymore",
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.5.0.48/latest.zip",
-    "AssemblyVersion": "7.5.0.48",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.5.0.48/latest.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.5.0.49/latest.zip",
+    "AssemblyVersion": "7.5.0.49",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.5.0.49/latest.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
-    "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.0.47...7.5.0.48",
-    "DownloadCount": 2979113,
+    "Changelog": "## What's Changed\r\n* Rewrite of Emanation normal by @wen-ff in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1205\r\n* Fix Arena Split Bait AOE. by @HerStolenLight in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1204\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.0.48...7.5.0.49",
+    "DownloadCount": 2979264,
     "originRepository": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
   },
   {
@@ -811,7 +811,7 @@
     ],
     "InternalName": "ChilledLeves",
     "RepoUrl": "https://github.com/LeontopodiumNivale14/LeveItAlone",
-    "DownloadCount": 101670,
+    "DownloadCount": 101671,
     "LastUpdate": 1777774705,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.24/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.24/update/latest.zip",
@@ -819,7 +819,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "API 15 bump",
-    "IconUrl": "https://s3.puni.sh/media/plugin/68/icon-0esyieh5s897.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/68",
     "originRepository": "https://puni.sh/api/repository/ice"
   },
   {
@@ -925,7 +925,7 @@
     "Tags": [],
     "InternalName": "Deliveroo",
     "RepoUrl": "https://github.com/VeraNala/Deliveroo",
-    "DownloadCount": 15632,
+    "DownloadCount": 15634,
     "LastUpdate": 1777864065,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/79/Deliveroo/versions/7.5.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/79/Deliveroo/versions/7.5.0.2/update/latest.zip",
@@ -933,7 +933,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "API 15 Bump",
-    "IconUrl": "https://s3.puni.sh/media/plugin/79/icon-e4lpgxbbi8u.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/79",
     "originRepository": "https://puni.sh/api/repository/vera"
   },
   {
@@ -1015,7 +1015,7 @@
     "AssemblyVersion": "7.5.0.3",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.5.0.3/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* Added pr buildtest by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.5.0.2...7.5.0.3",
-    "DownloadCount": 56032,
+    "DownloadCount": 56042,
     "originRepository": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
   },
   {
@@ -1030,7 +1030,7 @@
     ],
     "InternalName": "ExplorersIcebox",
     "RepoUrl": "https://github.com/LeontopodiumNivale14/Explorers-Icebox/tree/master",
-    "DownloadCount": 45804,
+    "DownloadCount": 45823,
     "LastUpdate": 1779884677,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/update/latest.zip",
@@ -1038,7 +1038,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "- More bugfixes/attempts at fixing that damn selling bug",
-    "IconUrl": "https://s3.puni.sh/media/plugin/64/icon-vw3ucktk0f.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/64",
     "originRepository": "https://puni.sh/api/repository/ice"
   },
   {
@@ -1103,7 +1103,7 @@
     ],
     "InternalName": "FidgetSpinner",
     "RepoUrl": "https://github.com/sourpuh/ffxiv_fidgetspinner",
-    "DownloadCount": 243,
+    "DownloadCount": 244,
     "LastUpdate": 1777707298,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/133/FidgetSpinner/versions/0.0.0.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/133/FidgetSpinner/versions/0.0.0.3/update/latest.zip",
@@ -1114,7 +1114,7 @@
     "TestingAssemblyVersion": "0.0.0.3",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/133/FidgetSpinner/versions/0.0.0.3/install/testing.zip",
     "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://s3.puni.sh/media/plugin/133/icon-hm43f98yi6g.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/133",
     "originRepository": "https://puni.sh/api/repository/sourpuh"
   },
   {
@@ -1135,7 +1135,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "14",
     "Changelog": "Waupdate",
-    "IconUrl": "https://s3.puni.sh/media/plugin/81/icon-mknpasad8jd.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/81",
     "originRepository": "https://puni.sh/api/repository/vera"
   },
   {
@@ -1175,7 +1175,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.17/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.5.17",
     "Changelog": "## What's Changed\r\n* Guard null before list removal & switch to Verbose log for `isFishing` by @Cryotechnic in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/639\r\n\r\n## New Contributors\r\n* @Cryotechnic made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/639\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.0.12...7.5.0.13",
-    "DownloadCount": 955712,
+    "DownloadCount": 955909,
     "originRepository": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
   },
   {
@@ -1217,7 +1217,7 @@
     ],
     "InternalName": "Gearsetter",
     "RepoUrl": "https://git.carvel.li/liza/Gearsetter",
-    "DownloadCount": 28012,
+    "DownloadCount": 28017,
     "LastUpdate": 1777759856,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/update/latest.zip",
@@ -1225,7 +1225,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "API 15",
-    "IconUrl": "https://s3.puni.sh/media/plugin/98/icon-f68zzcti46.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/98",
     "originRepository": "https://puni.sh/api/repository/vera"
   },
   {
@@ -1365,7 +1365,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "14",
     "Changelog": "",
-    "IconUrl": "https://s3.puni.sh/media/plugin/52/icon-h992mbd99av.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/52",
     "originRepository": "https://puni.sh/api/repository/jukka"
   },
   {
@@ -1402,7 +1402,7 @@
     ],
     "InternalName": "ICE",
     "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-    "DownloadCount": 842044,
+    "DownloadCount": 842081,
     "LastUpdate": 1779289936,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/70/ICE/versions/0.0.77.13/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/70/ICE/versions/0.0.77.13/update/latest.zip",
@@ -1410,7 +1410,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "- Fixed an issue where priority wasn't being respected on the cosmic (heh) scale. It'll now sort and add priority for every mission that there is\n- Added 2 new misc settings\n  - Added a crazy-taxi style arrow that will show you where you're moving to while navigating to the spot (this is 100% dumb shit, but it's dumb stuff that I like)\n  - Added a setting to increase the speed of gathering and crafting, with an info marker detailing what exactly it does.",
-    "IconUrl": "https://s3.puni.sh/media/plugin/70/icon-6mts8v53o8x.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/70",
     "ImageUrls": [
       "https://s3.puni.sh/media/plugin/70/image-48mo2sqihqq.png",
       "https://s3.puni.sh/media/plugin/70/image-qvicotsqoah.png",
@@ -1501,7 +1501,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "",
-    "IconUrl": "https://s3.puni.sh/media/plugin/63/icon-ogeu0gg4g6h.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/63",
     "ImageUrls": [
       "https://s3.puni.sh/media/plugin/63/image-w9qpjb1phr.png"
     ],
@@ -1595,7 +1595,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "13",
     "Changelog": "",
-    "IconUrl": "https://s3.puni.sh/media/plugin/95/icon-mbsyxamxrug.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/95",
     "originRepository": "https://puni.sh/api/repository/vera"
   },
   {
@@ -1634,7 +1634,7 @@
     ],
     "InternalName": "LazyLoot",
     "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-    "DownloadCount": 236935,
+    "DownloadCount": 236944,
     "LastUpdate": 1777584039,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/update/latest.zip",
@@ -1642,7 +1642,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "- 7.5",
-    "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/9",
     "originRepository": "https://love.puni.sh/ment.json"
   },
   {
@@ -1742,7 +1742,7 @@
     "Name": "Lightless Sync",
     "InternalName": "LightlessSync",
     "AssemblyVersion": "3.0.3.0",
-    "TestingAssemblyVersion": "3.0.3.9",
+    "TestingAssemblyVersion": "3.0.3.10",
     "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.\n\nPlugin from https://repo.lightless-sync.org/",
     "ApplicableVersion": "any",
     "RepoUrl": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient",
@@ -1758,7 +1758,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadLinkInstall": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient/releases/download/3.0.3.0/LightlessClient.zip",
-    "DownloadLinkTesting": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient/releases/download/3.0.3.9-Dev/LightlessClient.zip",
+    "DownloadLinkTesting": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient/releases/download/3.0.3.10-Dev/LightlessClient.zip",
     "DownloadLinkUpdate": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient/releases/download/3.0.3.0/LightlessClient.zip",
     "originRepository": "https://repo.lightless-sync.org/"
   },
@@ -1860,7 +1860,7 @@
     ],
     "InternalName": "Marketbuddy",
     "RepoUrl": null,
-    "DownloadCount": 8991,
+    "DownloadCount": 9004,
     "LastUpdate": 1777575334,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/update/latest.zip",
@@ -1868,7 +1868,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "- 7.5",
-    "IconUrl": "https://s3.puni.sh/media/plugin/131/icon-qzhqz1nooi.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/131",
     "originRepository": "https://love.puni.sh/ment.json"
   },
   {
@@ -1966,7 +1966,7 @@
     ],
     "InternalName": "NecroLens",
     "RepoUrl": "https://github.com/Jukkales/NecroLens",
-    "DownloadCount": 74337,
+    "DownloadCount": 74338,
     "LastUpdate": 1777738526,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.12/update/latest.zip",
@@ -1974,7 +1974,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "",
-    "IconUrl": "https://s3.puni.sh/media/plugin/53/icon-w57fbqqfzwn.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/53",
     "ImageUrls": [
       "https://s3.puni.sh/media/plugin/53/image-lfoiry0hm9.png"
     ],
@@ -2117,7 +2117,7 @@
     "AssemblyVersion": "7.5.0.2",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/NoSillyReborn/releases/download/7.5.0.2/latest.zip",
     "Changelog": "## What's Changed\r\n* Fix manifest mismatch and update ecommons, remove stg from build by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/NoSillyReborn/pull/4\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/NoSillyReborn/compare/7.5.0.1...7.5.0.2",
-    "DownloadCount": 2996,
+    "DownloadCount": 2998,
     "originRepository": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
   },
   {
@@ -2148,7 +2148,7 @@
     "Tags": [],
     "InternalName": "Orbwalker",
     "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-    "DownloadCount": 79291,
+    "DownloadCount": 79297,
     "LastUpdate": 1777528744,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/update/latest.zip",
@@ -2156,7 +2156,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "- 7.5",
-    "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/12",
     "originRepository": "https://love.puni.sh/ment.json"
   },
   {
@@ -2172,7 +2172,7 @@
     ],
     "InternalName": "PalacePal",
     "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-    "DownloadCount": 232698,
+    "DownloadCount": 232709,
     "LastUpdate": 1777738875,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/update/latest.zip",
@@ -2180,7 +2180,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "",
-    "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/32",
     "originRepository": "https://love.puni.sh/ment.json"
   },
   {
@@ -2196,7 +2196,7 @@
     ],
     "InternalName": "PandorasBox",
     "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-    "DownloadCount": 1287554,
+    "DownloadCount": 1288253,
     "LastUpdate": 1780112081,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/update/latest.zip",
@@ -2207,7 +2207,7 @@
     "TestingAssemblyVersion": "1.6.4.2",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.2/install/testing.zip",
     "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/8",
     "originRepository": "https://love.puni.sh/ment.json"
   },
   {
@@ -2243,7 +2243,7 @@
     "AssemblyVersion": "7.5.0.10",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.0.10/latest.zip",
     "Changelog": "## What's Changed\r\n* Party list enhancements and notes on hidden passports by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/19\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.5.0.9...7.5.0.10",
-    "DownloadCount": 15970,
+    "DownloadCount": 15979,
     "originRepository": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
   },
   {
@@ -2387,7 +2387,7 @@
     ],
     "InternalName": "Questionable",
     "RepoUrl": "https://github.com/PunishXIV/Questionable",
-    "DownloadCount": 1018628,
+    "DownloadCount": 1019096,
     "LastUpdate": 1780137867,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.290.0.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.290.0.3/update/latest.zip",
@@ -2398,7 +2398,7 @@
     "TestingAssemblyVersion": "15.289.1.0",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.289.1.0/install/testing.zip",
     "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-dpfaauzm5b.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/94",
     "originRepository": "https://love.puni.sh/ment.json"
   },
   {
@@ -2473,7 +2473,7 @@
     "AssemblyVersion": "7.5.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.5.0.0/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* api15 by @Shiori-Zephyr in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/16\r\n* API 15 compatibility by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.4.5.0...7.5.0.0",
-    "DownloadCount": 26407,
+    "DownloadCount": 26415,
     "originRepository": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
   },
   {
@@ -2510,7 +2510,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Added more Bozjan action support by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1276\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.0.36...7.5.0.37",
-    "DownloadCount": 2620396,
+    "DownloadCount": 2620700,
     "originRepository": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
   },
   {
@@ -2525,7 +2525,7 @@
     ],
     "InternalName": "Saucy",
     "RepoUrl": "https://github.com/PunishXIV/Saucy",
-    "DownloadCount": 631246,
+    "DownloadCount": 631494,
     "LastUpdate": 1779977986,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.6.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.6.0.2/update/latest.zip",
@@ -2536,7 +2536,7 @@
     "TestingAssemblyVersion": "2.0.0.1",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.0.0.1/install/testing.zip",
     "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/7",
     "originRepository": "https://love.puni.sh/ment.json"
   },
   {
@@ -2660,7 +2660,7 @@
     "Tags": [],
     "InternalName": "SomethingNeedDoing",
     "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-    "DownloadCount": 747493,
+    "DownloadCount": 747515,
     "LastUpdate": 1779781713,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.3/update/latest.zip",
@@ -2668,7 +2668,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "",
-    "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-6h5x17j9gpr.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/25",
     "originRepository": "https://puni.sh/api/repository/croizat"
   },
   {
@@ -2682,7 +2682,7 @@
     ],
     "InternalName": "Splatoon",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-    "DownloadCount": 1812807,
+    "DownloadCount": 1812865,
     "LastUpdate": 1778172293,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.1.13/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.1.13/update/latest.zip",
@@ -2693,7 +2693,7 @@
     "TestingAssemblyVersion": "3.9.1.14",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.1.14/install/testing.zip",
     "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/10",
     "originRepository": "https://love.puni.sh/ment.json"
   },
   {
@@ -2708,7 +2708,7 @@
     ],
     "InternalName": "Squadronista",
     "RepoUrl": "https://github.com/yourusername/Squadronista",
-    "DownloadCount": 6736,
+    "DownloadCount": 6737,
     "LastUpdate": 1778554077,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/101/Squadronista/versions/7.5.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/101/Squadronista/versions/7.5.0.0/update/latest.zip",
@@ -2716,7 +2716,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "API15",
-    "IconUrl": "https://s3.puni.sh/media/plugin/101/icon-xwugrtw9vk.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/101",
     "originRepository": "https://puni.sh/api/repository/vera"
   },
   {
@@ -3031,7 +3031,7 @@
     "AssemblyVersion": "1.0.0.8",
     "DownloadLinkUpdate": "https://github.com/aventurescence/Understudy/releases/download/v1.0.0.8/latest.zip",
     "Changelog": "### chore: update Dalamud API level to 15 in pluginmanifest\r\n\n\n---\n*Assembly version: 1.0.0.8*\n\n\n**Full Changelog**: https://github.com/aventurescence/Understudy/compare/v1.0.0.7...v1.0.0.8",
-    "DownloadCount": 1277,
+    "DownloadCount": 1278,
     "originRepository": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
   },
   {
@@ -3089,7 +3089,7 @@
     "Tags": [],
     "InternalName": "vfallguy",
     "RepoUrl": null,
-    "DownloadCount": 53221,
+    "DownloadCount": 53223,
     "LastUpdate": 1777500971,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/41/vfallguy/versions/0.0.0.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/41/vfallguy/versions/0.0.0.12/update/latest.zip",
@@ -3097,7 +3097,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "",
-    "IconUrl": "https://s3.puni.sh/media/plugin/41/icon-ky2vlcaen2q.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/41",
     "originRepository": "https://puni.sh/api/repository/veyn"
   },
   {
@@ -3108,7 +3108,7 @@
     "Tags": [],
     "InternalName": "vfaux",
     "RepoUrl": "https://github.com/awgil/vfaux",
-    "DownloadCount": 92047,
+    "DownloadCount": 92051,
     "LastUpdate": 1777496806,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.12/update/latest.zip",
@@ -3116,7 +3116,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "",
-    "IconUrl": "https://s3.puni.sh/media/plugin/29/icon-3vysu0z0eem.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/29",
     "originRepository": "https://puni.sh/api/repository/veyn"
   },
   {
@@ -3127,7 +3127,7 @@
     "Tags": [],
     "InternalName": "visland",
     "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-    "DownloadCount": 791157,
+    "DownloadCount": 791167,
     "LastUpdate": 1777499431,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.143/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.143/update/latest.zip",
@@ -3135,7 +3135,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "",
-    "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/28",
     "originRepository": "https://puni.sh/api/repository/veyn"
   },
   {
@@ -3155,7 +3155,7 @@
     ],
     "InternalName": "VIWI",
     "RepoUrl": null,
-    "DownloadCount": 37416,
+    "DownloadCount": 37428,
     "LastUpdate": 1779835305,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/108/VIWI/versions/0.0.0.61/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/108/VIWI/versions/0.0.0.61/update/latest.zip",
@@ -3163,7 +3163,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "Workshoppa OOM(aterials) TurnIn Fix (finally!)\nMergeStacks Adjustment/Correction",
-    "IconUrl": "https://s3.puni.sh/media/plugin/108/icon-aab5kumn3gi.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/108",
     "originRepository": "https://puni.sh/api/repository/vera"
   },
   {
@@ -3174,7 +3174,7 @@
     "Tags": [],
     "InternalName": "vnavmesh",
     "RepoUrl": null,
-    "DownloadCount": 1430239,
+    "DownloadCount": 1430295,
     "LastUpdate": 1779040219,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.3/update/latest.zip",
@@ -3185,7 +3185,7 @@
     "TestingAssemblyVersion": "0.5.6.28",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/0.5.6.28/install/testing.zip",
     "TestingDalamudApiLevel": "13",
-    "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-fcvvof2vj4n.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/48",
     "originRepository": "https://puni.sh/api/repository/veyn"
   },
   {
@@ -3196,7 +3196,7 @@
     "Tags": [],
     "InternalName": "vsatisfy",
     "RepoUrl": null,
-    "DownloadCount": 129044,
+    "DownloadCount": 129048,
     "LastUpdate": 1778772850,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.32/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.32/update/latest.zip",
@@ -3204,7 +3204,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "",
-    "IconUrl": "https://s3.puni.sh/media/plugin/58/icon-hffi2ft0zlg.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/58",
     "originRepository": "https://puni.sh/api/repository/veyn"
   },
   {
@@ -3220,7 +3220,7 @@
     ],
     "InternalName": "WaymarkStudio",
     "RepoUrl": "https://github.com/sourpuh/ffxiv_waymarkstudio",
-    "DownloadCount": 61613,
+    "DownloadCount": 61615,
     "LastUpdate": 1778724776,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/62/WaymarkStudio/versions/0.0.0.48/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/62/WaymarkStudio/versions/0.0.0.48/update/latest.zip",
@@ -3231,7 +3231,7 @@
     "TestingAssemblyVersion": "0.0.0.48",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/62/WaymarkStudio/versions/0.0.0.48/install/testing.zip",
     "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://s3.puni.sh/media/plugin/62/icon-lwttlf8wkto.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/62",
     "ImageUrls": [
       "https://s3.puni.sh/media/plugin/62/image-3wzsk69fih2.png",
       "https://s3.puni.sh/media/plugin/62/image-cz33a2rx09l.png"
@@ -3316,7 +3316,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "14",
     "Changelog": "API 14",
-    "IconUrl": "https://s3.puni.sh/media/plugin/97/icon-3xr7pa6a4qt.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/97",
     "originRepository": "https://puni.sh/api/repository/vera"
   },
   {
@@ -3331,7 +3331,7 @@
     ],
     "InternalName": "WrathCombo",
     "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-    "DownloadCount": 938590,
+    "DownloadCount": 938622,
     "LastUpdate": 1779132612,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.7/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.7/update/latest.zip",
@@ -3342,7 +3342,7 @@
     "TestingAssemblyVersion": "1.0.2.24",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.2.24/install/testing.zip",
     "TestingDalamudApiLevel": "13",
-    "IconUrl": "https://s3.puni.sh/media/plugin/60/icon-2bwhkn3zf1f.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/60",
     "originRepository": "https://love.puni.sh/ment.json"
   },
   {
@@ -3478,7 +3478,7 @@
     "Tags": [],
     "InternalName": "YesAlready",
     "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-    "DownloadCount": 1236767,
+    "DownloadCount": 1236858,
     "LastUpdate": 1779781314,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.2.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.2.3/update/latest.zip",
@@ -3489,7 +3489,7 @@
     "TestingAssemblyVersion": "1.10.4.0",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.10.4.0/install/testing.zip",
     "TestingDalamudApiLevel": "12",
-    "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png",
+    "IconUrl": "https://puni.sh/api/plugins/icon/26",
     "originRepository": "https://love.puni.sh/ment.json"
   },
   {
@@ -3575,7 +3575,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Add pr test and bump ecommons by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/8\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.5.0.0...7.5.0.1",
-    "DownloadCount": 14702,
+    "DownloadCount": 14706,
     "originRepository": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
   },
   {
@@ -3595,7 +3595,7 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [],
-    "LastUpdate": 1780160141,
+    "LastUpdate": 1780163999,
     "DownloadLinkInstall": "https://steam.valgrifer.fr/DalamudRepo/404.zip",
     "DownloadLinkUpdate": "https://steam.valgrifer.fr/DalamudRepo/404.zip",
     "Tags": [
