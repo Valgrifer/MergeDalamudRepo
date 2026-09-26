@@ -107,4 +107,5 @@ export default [
     "https://puni.sh/api/repository/sourpuh",
     "https://repo.lightless-sync.org/",
     "https://pfa.marobotic.dev/repo/",
+    "https://raw.githubusercontent.com/XeldarAlz/DalamudPlugins/main/repo.json",
 ];
