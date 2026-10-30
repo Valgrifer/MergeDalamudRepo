@@ -108,5 +108,5 @@ export default [
     "https://repo.lightless-sync.org/",
     "https://pfa.marobotic.dev/repo/",
     "https://aetherphone.net/repo.json",
-    "https://raw.githubusercontent.com/XeldarAlz/DalamudPlugins/main/repo.json",
+    "https://grindless.pages.dev/repo.json",
 ];
